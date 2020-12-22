@@ -16,7 +16,7 @@ barrier wall. Thank-you.<Close><End of Block>
 <TextBlock 3 w:22 h:1>
 Disengaged!<Close><End of Block>
 <TextBlock 4 w:54 h:4>
-- Aveh excavation sight#8 -
+- Av excavation sight#8 -
 -       Gear No. 3        -
     Tell current situation
     Surrounding area info.<Close><End of Block>

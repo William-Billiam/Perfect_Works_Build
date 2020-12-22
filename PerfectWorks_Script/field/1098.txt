@@ -1,7 +1,7 @@
 <TextBlock 1 w:44 h:4>
 Broyer
 "Wha? Who's that? 
-Aren't those the Aveh 
+Aren't those the Av 
 pirates?"<Close><End of Block>
 <TextBlock 2 w:38 h:4>
 Elly

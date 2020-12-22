@@ -1,7 +1,7 @@
 <TextBlock 1 w:50 h:4>
 Citan
 "These are the Gebler 
-units currently in Aveh, 
+units currently in Av, 
 correct?"<Close><End of Block>
 <TextBlock 2 w:46 h:2>
 Citan
@@ -20,7 +20,7 @@ Citan
 "There are three main
 groups.<New>
 Each is made up of a
-mix of Gebler and Aveh
+mix of Gebler and Av
 forces. Only two of
 these are very large."<Close><End of Block>
 <TextBlock 6 w:50 h:4>
@@ -58,11 +58,11 @@ with Nisan?"<Close><End of Block>
 Bart
 "I see. We'll draw them
 out by making it look like
-Kislev is invading Aveh."<Close><End of Block>
+Kislev is invading Av."<Close><End of Block>
 <TextBlock 12 w:42 h:4>
 Citan
 "The main strength of
-Aveh's fleet is the
+Av's fleet is the
 battleship Kefeinzel.<New>
 It's been in service
 since the reign of

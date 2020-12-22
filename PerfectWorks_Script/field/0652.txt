@@ -293,7 +293,7 @@ Elly
 Watch the cliffs!<Close><End of Block>
 <TextBlock 44 w:42 h:3>
 <L> Lahan village
-             Aveh <R>
+             Av <R>
 Beware of landslides!<Close><End of Block>
 <TextBlock 45 w:34 h:2>
 You have too many

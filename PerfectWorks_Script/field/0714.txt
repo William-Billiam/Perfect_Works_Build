@@ -74,7 +74,7 @@ Citan
 <TextBlock 19 w:36 h:4>
 Citan
 "Oh no!
-The Aveh Military!
+The Av Military!
 Not now...!"<Close><End of Block>
 <TextBlock 20 w:46 h:4>
 Citan

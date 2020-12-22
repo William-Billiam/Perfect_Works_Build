@@ -127,12 +127,12 @@ other villagers here.<Close><End of Block>
 Citan
 "Yes, well... <Delay 20>Why not go
 through the Blackmoon
-Forest and head for Aveh?<New>
+Forest and head for Av?<New>
 I am sure those soldiers
 from yesterday were not
-from Aveh.<New>
+from Av.<New>
 If you can manage to get
-to the Aveh side, they
+to the Av side, they
 will not be able to track
 you down very easily."<Close><End of Block>
 <TextBlock 27 w:48 h:3>

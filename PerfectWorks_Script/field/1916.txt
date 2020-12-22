@@ -23,7 +23,7 @@ Maria
 We came to an enormous
 cavern that was big
 enough to swallow the
-whole capital of Aveh.<Close><End of Block>
+whole capital of Av.<Close><End of Block>
 <TextBlock 8 w:46 h:2>
 In its center were two
 gently glowing objects.<Close><End of Block>

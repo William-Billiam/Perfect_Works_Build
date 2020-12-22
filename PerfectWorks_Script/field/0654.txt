@@ -219,11 +219,11 @@ should do next...<New>
 Shall we leave this forest
 and head for the desert
 town of Dazil?<New>
-We may learn what Aveh and
+We may learn what Av and
 Kislev are up to...
 not to mention getting some
 parts for <Weltall>.<New>
-The leader of Aveh is not
+The leader of Av is not
 going to sit back and let
 the other night's fiasco
 go by unpunished!"<Close><End of Block>
@@ -234,20 +234,20 @@ Fei
 Citan
 "I would assume it is
 an aerial battleship
-from Aveh..."<Close><End of Block>
+from Av..."<Close><End of Block>
 <TextBlock 44 w:54 h:4>
 Fei
 "An aerial battleship?
-I've never heard of Aveh
+I've never heard of Av
 having anything like that."<Close><End of Block>
 <TextBlock 45 w:44 h:4>
 Citan
 "Of course it does
-not come from Aveh
+not come from Av
 originally...<New>
 Most likely it belongs
 to the Gebler forces
-stationed in Aveh."<Close><End of Block>
+stationed in Av."<Close><End of Block>
 <TextBlock 46 w:18 h:2>
 Fei
 "Gebler?"<Close><End of Block>
@@ -261,10 +261,10 @@ something about them.<New>
 They are an organization
 providing large scale
 military aide to the
-Kingdom of Aveh.<New>
+Kingdom of Av.<New>
 They showed up in Ignas
 several months ago.
-Until then, Aveh was
+Until then, Av was
 being routed by Kislev.<New>
 But with Gebler's help
 they have managed to
@@ -299,7 +299,7 @@ the Kislev Empire?"<Close><End of Block>
 Citan
 "Yes. It seems they have
 found new ruins on the
-northern edge of Aveh.<New>
+northern edge of Av.<New>
 Those ruins are under a
 five-hundred-year-old
 temple.<New>

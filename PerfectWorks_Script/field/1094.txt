@@ -4,7 +4,7 @@ Fei
 <TextBlock 2 w:44 h:4>
 Citan
 "Fei, it is an aerial
-attack by Aveh, or
+attack by Av, or
 should I say, Gebler!<New>
 They really are intent
 on attacking the

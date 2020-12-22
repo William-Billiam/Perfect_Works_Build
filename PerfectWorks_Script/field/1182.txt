@@ -134,7 +134,7 @@ I am terribly sorry!"<Close><End of Block>
 (Uh<Delay 5>...uh<Delay 5>...uh...<Delay 5>...<Delay 5>!<Delay 10>
 My chronic lumbago has
 gotten worse since
-I hustled in Aveh...)<Close><End of Block>
+I hustled in Av...)<Close><End of Block>
 <TextBlock 24 w:54 h:4>
 Maison
 "At long last we are
@@ -181,7 +181,7 @@ Maison
 Doctor Uzuki..."<Close><End of Block>
 <TextBlock 27 w:52 h:3>
 Maison
-"Let us head for Aveh.<Delay 10>
+"Let us head for Av.<Delay 10>
 To save Miss Marguerite!!"<Close><End of Block>
 <TextBlock 28 w:52 h:4>
 Maison
@@ -409,7 +409,7 @@ down to the surface...<New>
 Alright, I understand you.
 But Kahran Ramsus...
 taking over the post of
-Aveh is pretty annoying."<Close><End of Block>
+Av is pretty annoying."<Close><End of Block>
 <TextBlock 65 w:38 h:4>
 Citan
 "The home country
@@ -924,7 +924,7 @@ As long as the gate exists,
 we can't escape from
 Solaris' influence anyway.<New>
 In other words, even if we
-recover Aveh from Shakhan,
+recover Av from Shakhan,
 it wouldn't immediatley be
 a happy ending."<Close><End of Block>
 <TextBlock 149 w:42 h:4>

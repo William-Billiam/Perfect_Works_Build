@@ -143,7 +143,7 @@ money. Get out!<Close><End of Block>
   - Menu -
  
   Bledavik Beer
-  Aveh Ale
+  Av Ale
   Hob-Jerky
   Cheese Plate<Close><End of Block>
 <TextBlock 36 w:32 h:3>

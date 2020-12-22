@@ -90,7 +90,7 @@ That Gear is a top
 secret experimental
 model from Kislev...<New>
 It was only natural
-that Aveh would also
+that Av would also
 be madly searching
 for it."<Close><End of Block>
 <TextBlock 16 w:50 h:3>

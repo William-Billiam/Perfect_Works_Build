@@ -90,7 +90,7 @@ The desert town of Dazil."<Close><End of Block>
 <TextBlock 19 w:52 h:4>
 Citan
 "We should be able to find
-out what both Aveh and
+out what both Av and
 Kislev are up to, here.<New>
 And we also have to gather
 the things we need to
@@ -172,7 +172,7 @@ Citan
 "Most probably.<New>
 And in that case, there
 will be a conflict between
-Aveh's inspection team and
+Av's inspection team and
 Kislev's pursuit troops.<New>
 If they find where we have
 hidden <Weltall>..."<Close><End of Block>
@@ -250,14 +250,14 @@ round here before.<New>
 Don't think that if you
 cause trouble you'll get
 away with it!<New>
-We're Aveh Army Guards!
+We're Av Army Guards!
 ...Remember that!<Close><End of Block>
 <TextBlock 40 w:52 h:3>
 Feels like the war's over.
 Now thing's should get
 better. I'm so relieved.<Close><End of Block>
 <TextBlock 41 w:50 h:3>
-This is the Aveh Guard
+This is the Av Guard
 station.<New>
 This town is important
 because it's the base for
@@ -270,7 +270,7 @@ round here before.<New>
 Don't think that if you
 cause trouble you'll get
 away with it!<New>
-We're Aveh Army Guards!
+We're Av Army Guards!
 ...Remember that!<Close><End of Block>
 <TextBlock 43 w:24 h:1>
 All's clear!<Close><End of Block>
@@ -296,7 +296,7 @@ round here before.<New>
 Don't think that if you
 cause trouble you'll get
 away with it!<New>
-We're Aveh Army Guards!
+We're Av Army Guards!
 ...Remember that!<Close><End of Block>
 <TextBlock 48 w:46 h:3>
 Someone named Sigurd is
@@ -323,7 +323,7 @@ Hey, I haven't seen you
 Don't think that if you
 cause trouble you'll get
 away with it!<New>
-We're Aveh Army Guards!
+We're Av Army Guards!
 ...Remember that!<Close><End of Block>
 <TextBlock 51 w:52 h:3>
 There are burglars out
@@ -372,7 +372,7 @@ end, and life will be easy
 again. I'm so happy.<Close><End of Block>
 <TextBlock 59 w:50 h:3>
 Since those Gebler forces
-came, Aveh's hardly ever
+came, Av's hardly ever
 lost to Kislev.<New>
 I wish the 'Ethos' would
 give out some of those
@@ -447,7 +447,7 @@ Fei
 <TextBlock 70 w:50 h:4>
 Citan
 "This is the center for
-all excavations in Aveh.<New>
+all excavations in Av.<New>
 People come from all over
 Ignas to try and find the
 resources buried in the

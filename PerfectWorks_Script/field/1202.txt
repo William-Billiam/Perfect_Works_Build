@@ -76,7 +76,7 @@ Hammer
 Hammer, the 'supplier',
 has great information for
 you...<Delay 10> Shakhan still
-controls Aveh...<New>
+controls Av...<New>
 He's planning military
 intervention in Nisan.<Delay 10>
 But for some reason,
@@ -111,7 +111,7 @@ Rico
 <TextBlock 23 w:46 h:3>
 Citan
 "Let us say<Delay 5>...they are
-bandits...<Delay 5>robbing Aveh.<New>
+bandits...<Delay 5>robbing Av.<New>
 Bart is their leader,<Delay 10>
 though he is still a
 young man."<Close><End of Block>

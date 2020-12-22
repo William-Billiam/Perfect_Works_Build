@@ -154,9 +154,9 @@ see from your entrance?"<Close><End of Block>
 Ol' man Bal
 "Yes, that's it.
 On the other side is an
-old Aveh excavation site.<New>
+old Av excavation site.<New>
 They built the wall when
-Aveh was excavating here
+Av was excavating here
 to keep the sand from
 falling in from above.<New>
 But they've stopped work

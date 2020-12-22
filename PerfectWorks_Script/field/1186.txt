@@ -17,7 +17,7 @@ commander in chief of
 Gebler.<New>
 It seems that Gebler isn't
 just after the excavation
-sites around Aveh after
+sites around Av after
 all."<Close><End of Block>
 <TextBlock 4 w:44 h:3>
 Bart
@@ -302,7 +302,7 @@ the road lies buried...!"<Close><End of Block>
 <TextBlock 48 w:46 h:4>
 Sigurd
 "It's time to sneak
-into Aveh at last.<New>
+into Av at last.<New>
 First of all, our party
 should inspect the town
 and work out a plan of

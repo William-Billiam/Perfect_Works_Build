@@ -449,7 +449,7 @@ My...<Delay 10>
 home...<Opcode 2 90><Close><End of Block>
 <TextBlock 84 w:54 h:4>
 Maison
-"We must infiltrate Aveh 
+"We must infiltrate Av 
 and rescue Margie now!<New>
 Gebler has discovered this
 base.<Delay 10> So we should leave a

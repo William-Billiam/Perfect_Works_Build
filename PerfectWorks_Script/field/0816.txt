@@ -67,7 +67,7 @@ I'm gonna get some sleep.
 Man, I'm beat."<Close><End of Block>
 <TextBlock 12 w:34 h:4>
 More sightseeing 
-in Aveh?
+in Av?
     Yes
     Rest<Close><End of Block>
 <TextBlock 13 w:46 h:3>
@@ -124,7 +124,7 @@ Marguerite.<Close><End of Block>
 Bart
 "No sweat!
 You'd better get
-outta Aveh now too.<New>
+outta Av now too.<New>
 Things are gonna get
 outta hand soon."<Close><End of Block>
 <TextBlock 23 w:20 h:1>

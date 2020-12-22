@@ -50,7 +50,7 @@ Hey, I haven't seen you
 Don't think that if you
 cause trouble you'll get
 away with it!<New>
-We're Aveh Army Guards!
+We're Av Army Guards!
 ...Remember that!<Close><End of Block>
 <TextBlock 11 w:50 h:3>
    -This month's goal-   

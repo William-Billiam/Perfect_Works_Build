@@ -110,7 +110,7 @@ We've got problems!!"<Close><End of Block>
 <TextBlock 24 w:52 h:4>
 Shevat Emissary
 "Today, a peace settlement
-between Aveh and Kislev
+between Av and Kislev
 is being held at Shevat...<New>
 But, Solaris' mobile
 weapons are approaching

@@ -21,7 +21,7 @@ Calamity."<Close><End of Block>
 Fei
 "I just happened to come
 across him in the cavern
-underneath Aveh's desert.<New>
+underneath Av's desert.<New>
 I didn't know him that
 well...<Delay 20>
 So you're Ol' man Bal's
@@ -59,7 +59,7 @@ same name as the
 eccentric old man?<New>
 Remember the crazy old
 man playing with Gears
-underground Aveh?"<Close><End of Block>
+underground Ave?"<Close><End of Block>
 <TextBlock 12 w:48 h:4>
 Bart
 "But, the crazy o....

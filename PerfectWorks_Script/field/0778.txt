@@ -95,7 +95,7 @@ me again."<Close><End of Block>
 Agnes
 "It's not embarrassing.<New>
 Since long ago, the Nisan
-Mother and King of Aveh
+Mother and King of Av
 have always...<Close><End of Block>
 <TextBlock 19 w:40 h:3>
 Margie
@@ -141,7 +141,7 @@ Citan
 Rico
 "This is Shakhan's last.<New>
 When he kick's the bucket
-things in Kislev and Aveh
+things in Kislev and Av
 should calm down a little.<New>
 Everything'll be normal."<Close><End of Block>
 <TextBlock 29 w:46 h:4>
@@ -375,7 +375,7 @@ There's a special way to
 get there from the surface."<Close><End of Block>
 <TextBlock 71 w:50 h:4>
 Sigurd
-"To get to Aveh we stowed
+"To get to Av we stowed
 away on a regular flight
 to the surface."<Close><End of Block>
 <TextBlock 72 w:36 h:3>
@@ -448,7 +448,7 @@ support without people."<Close><End of Block>
 Sigurd
 "Pure Solarians are rare.<New>
 They would not even make
-up a quarter of Aveh's
+up a quarter of Av's
 total population.<New>
 So, they support their
 country by stealing
@@ -611,7 +611,7 @@ I'm going outside to
 get some air."<Close><End of Block>
 <TextBlock 109 w:50 h:4>
 Sigurd
-"To get to Aveh we stowed
+"To get to Av we stowed
 away on a regular flight
 to the surface."<Close><End of Block>
 <TextBlock 110 w:36 h:3>

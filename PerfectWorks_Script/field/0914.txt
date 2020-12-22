@@ -37,8 +37,8 @@ some Chiffon Nisan?<New>
 I used to eat it
 everyday in Nisan.
 I don't think they
-make it in Aveh.<New>
-Aveh used to have such
+make it in Av.<New>
+Av used to have such
 good bakers, but I
 guess they must have
 all died in the war."<Close><End of Block>
@@ -115,7 +115,7 @@ Sect are deeply indebted
 to you.<Close><End of Block>
 <TextBlock 21 w:48 h:4>
 Today we came to pray to
-god for peace in Aveh,
+god for peace in Av,
 Nisan and Kislev. <Delay 60>
 Peace be with you all.<Close><End of Block>
 <TextBlock 22 w:42 h:1>

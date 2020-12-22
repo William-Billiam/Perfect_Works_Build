@@ -148,7 +148,7 @@ morning.<Close><End of Block>
 I hear it is because
 Marguerite has returned...<New>
 They are trying to decide
-how to deal with Aveh as
+how to deal with Av as
 the 'Nisan parish'.<Close><End of Block>
 <TextBlock 24 w:50 h:2>
 I can understand why
@@ -643,7 +643,7 @@ since this morning.<Close><End of Block>
 <TextBlock 103 w:50 h:3>
 I hear they're talking
 about a plan to deal with
-the troops from Aveh.<New>
+the troops from Av.<New>
 Some of them think the
 return of Margie is a
 nuisance.<Close><End of Block>

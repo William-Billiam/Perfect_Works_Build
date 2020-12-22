@@ -78,7 +78,7 @@ Oh my god!
 We've been found!<Close><End of Block>
 <TextBlock 23 w:48 h:3>
 We were just one step
-from peace between Aveh
+from peace between Av
 and Kislev. <New>
 Then, it is said, Bart's
 father, Edbart IV, was

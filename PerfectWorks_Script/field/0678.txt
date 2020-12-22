@@ -60,7 +60,7 @@ desert to search for parts
 for <Weltall>."<Close><End of Block>
 <TextBlock 13 w:54 h:4>
 Citan
-"The Kislev and Aveh armies
+"The Kislev and Av armies
 are confronting each other 
 in the desert all the time.<New>
 There is talk that their

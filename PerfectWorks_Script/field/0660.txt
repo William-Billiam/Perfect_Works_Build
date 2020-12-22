@@ -2,7 +2,7 @@
 Damn them...<Delay 60>
 They're still giving chase.<Opcode 2 30><Close><End of Block>
 <TextBlock 2 w:62 h:2>
-We've entered Aveh territory...<Delay 60>
+We've entered Av territory...<Delay 60>
 I'm not giving up now.<Opcode 2 30><Close><End of Block>
 <TextBlock 3 w:52 h:1>
 This Gear's too important.<Opcode 2 5><Close><End of Block>

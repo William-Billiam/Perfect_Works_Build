@@ -1,6 +1,6 @@
 <TextBlock 1 w:56 h:3>
 The remote village of Lahan,
- in the outskirts of Aveh,
+ in the outskirts of Av,
 near the border with Kislev.<Opcode 2 160><Close><End of Block>
 <TextBlock 2 w:56 h:1>
 This is where it all begins.<Opcode 2 150><Close><End of Block>
@@ -12,7 +12,7 @@ a war has been raging between two
 countries for hundreds of years.<Delay 30>
 In the north of the continent lies
 the Kislev Empire, in the south
-lies the desert kingdom of Aveh.<Delay 30>
+lies the desert kingdom of Av.<Delay 30>
 The war has gone on for so long
 that the people have forgotten the
 cause, knowing only the pointless
@@ -51,15 +51,15 @@ their ruins.<Delay 30>
 But suddenly a mysterious military
 force appeared in the continent of
 Ignas.<Delay 20> Called 'Gebler', this force
-decided to make contact with Aveh.<Delay 200><Delay 200><Delay 200><Close><End of Block>
+decided to make contact with Av.<Delay 200><Delay 200><Delay 200><Close><End of Block>
 <TextBlock 7 w:68 h:11>
 With the assistance of this Gebler
-military force,<Delay 5> Aveh was able to
+military force,<Delay 5> Av was able to
 recover from being hopelessly out-
 numbered to being back on an even
 standing with Kislev.<Delay 30>
 Then,<Delay 10> taking further advantage of
-its newly gained momentum,<Delay 10> Aveh
+its newly gained momentum,<Delay 10> Av
 started to capture one territory
 after another from Kislev,<Delay 10> showing
 no indication of slowing down in

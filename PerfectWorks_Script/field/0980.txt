@@ -70,7 +70,7 @@ Surrendering isn't going to
 change Nisan's fate.<New>
 We'll lose the Yggdrasil,
 the core of our power in
-saving Aveh and Margie.<New>
+saving Av and Margie.<New>
 I know it looks bad, but
 you can still count on us!"<Close><End of Block>
 <TextBlock 12 w:54 h:3>

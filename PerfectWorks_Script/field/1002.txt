@@ -12,7 +12,7 @@ Please use one of
 the other 3 gates."<Close><End of Block>
 <TextBlock 3 w:54 h:4>
 Imperial Guard
-"Due to the Aveh attack,
+"Due to the Av attack,
 the entire Imperial capital
 area is under martial law.<New>
 Presently, the front gate
@@ -28,7 +28,7 @@ Civilians are not permitted
 to enter."<Close><End of Block>
 <TextBlock 5 w:48 h:4>
 Imperial Guard
-"Due to the Aveh attack,
+"Due to the Av attack,
 the entire area is under
 martial law. Presently,<New>
 the front gate is the

@@ -1067,7 +1067,7 @@ coming here for help?"<Close><End of Block>
 <TextBlock 141 w:68 h:11>
 <Opcode 14 2>      IGNAS CONFLICT STATUS: 
 37th arms supplement -  upgrading
-Aveh's Gears from level D2 to D3.
+Av's Gears from level D2 to D3.
 Maintain Kislev Gears at level D2.
 Current balance = 4 : 6 ...
      REPORT BY BISHOP SHAKHAN

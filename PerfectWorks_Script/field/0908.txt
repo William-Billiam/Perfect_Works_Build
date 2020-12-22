@@ -1,6 +1,6 @@
 <TextBlock 1 w:48 h:4>
 Bart
-"Thanks to you, Aveh has
+"Thanks to you, Av has
 been taken back from
 Shakhan and Gebler.<New>
 Thank you.<New>

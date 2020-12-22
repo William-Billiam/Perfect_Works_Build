@@ -130,7 +130,7 @@ first in quite a while!<Close><End of Block>
 Welcome to Bledavik!
 We're having a festival
 celebrating the founding
-of our country, Aveh.<New>
+of our country, Av.<New>
 There's a martial arts
 tournament too.<New>
 It's been a while since
@@ -168,7 +168,7 @@ the festival plaza?
     No<Close><End of Block>
 <TextBlock 37 w:50 h:4>
 Just between you n' me...<New>
-Aveh's 500th anniversary
+Av's 500th anniversary
 festival isn't all that
 great. It's because the
 war's getting worse...<Close><End of Block>
@@ -391,7 +391,7 @@ Delicious berries.
 You can't find Ariberries
 like these anywhere else.<New>
 Deep red berries grown
-with Aveh spring water.<Close><End of Block>
+with Av spring water.<Close><End of Block>
 <TextBlock 95 w:36 h:3>
 One box 10G.
     Buy some
@@ -428,7 +428,7 @@ Cr'ap'n <Delay 15>susp'cious peepl!wned(30)<Close><End of Block>
 <TextBlock 105 w:46 h:3>
 We are the Raider Boys!
 Joined together to
-protect Aveh's peace!<Opcode 2 100><Close><End of Block>
+protect Av's peace!<Opcode 2 100><Close><End of Block>
 <TextBlock 106 w:44 h:3>
 We protect the people
 of the desert from the
@@ -462,7 +462,7 @@ in this part of the desert!<Close><End of Block>
 <TextBlock 114 w:10 h:1>
 Yeah!<Opcode 2 30><Close><End of Block>
 <TextBlock 115 w:42 h:1>
-<Opcode 1 1>You're not from Aveh!<Opcode 2 100><Close><End of Block>
+<Opcode 1 1>You're not from Av!<Opcode 2 100><Close><End of Block>
 <TextBlock 116 w:28 h:1>
 Company <Delay 20> halt!<Opcode 2 20><Close><End of Block>
 <TextBlock 117 w:16 h:1>
@@ -740,7 +740,7 @@ the country."<Close><End of Block>
 <TextBlock 175 w:46 h:3>
 If Prince Bartholomew
 comes back he'll bring 
-back Aveh's old spirit.<Close><End of Block>
+back Av's old spirit.<Close><End of Block>
 <TextBlock 176 w:30 h:1>
 Go get'em, boy!<Close><End of Block>
 <TextBlock 177 w:36 h:3>

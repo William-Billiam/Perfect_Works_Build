@@ -122,12 +122,12 @@ go near the place!<Close><End of Block>
 South of here is the
 'Blackmoon Forest'.
 If you can make it through
-there, you'll come to Aveh,
+there, you'll come to Av,
 the great land of fire!<New>
 I shouldn't be wasting my
 time here in this little
 country village.
-Why, I oughta go to Aveh
+Why, I oughta go to Av
 and work there...!<New>
 Beautiful women and good
 liquor...<Delay 15>
@@ -156,11 +156,11 @@ If you get through the
 'Blackmoon Forest' to
 the south of here, you
 will find the kingdom of
-fire, 'Aveh'.<New>
+fire, 'Av'.<New>
 Instead of just wasting
 away here in this little
 mountain village, I should
-go have some fun in Aveh!<New>
+go have some fun in Av!<New>
 Beautiful girls, tasty
 liquor...<Delay 15>
 Why, a gentleman like
@@ -172,7 +172,7 @@ Wouldn't that be good!<Close><End of Block>
 Have you heard the
 latest rumors!?<New>
 It's said that, in the
-southern desert of Aveh
+southern desert of Av
 there is buried treasure
 all over the place!<New>
 There's hundreds of

@@ -3,7 +3,7 @@
 ...<Delay 10>...<Delay 10><New>
 That's not it. This
 type...It matches with
-the Aveh pirate ship,
+the Av pirate ship,
 Yggdrasil."<Close><End of Block>
 <TextBlock 2 w:38 h:4>
 Dominia

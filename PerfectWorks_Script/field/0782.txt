@@ -176,7 +176,7 @@ Bart
 "First, let's just
 concentrate on Shakhan.<New>
 Once he's out of the way
-and Aveh is safe again,
+and Av is safe again,
 we can think about how
 to deal with Gebler."<Close><End of Block>
 <TextBlock 35 w:54 h:4>
@@ -282,9 +282,9 @@ Bart
 <TextBlock 51 w:50 h:4>
 Citan
 "I have some additional
-information about Aveh's
+information about Av's
 border fleet.<New>
-The former Aveh supreme
+The former Av supreme
 commander was transferred
 there.<New>
 Not really transferred,<Delay 30>
@@ -458,7 +458,7 @@ Hiding in a grave?"<Close><End of Block>
 <TextBlock 86 w:44 h:4>
 Margie
 "The Great Mothers and
-Kings of Aveh of old
+Kings of Av of old
 are revered there."<Close><End of Block>
 <TextBlock 87 w:54 h:3>
 Bart
@@ -612,7 +612,7 @@ Bart
 "What is it Sig?"<Close><End of Block>
 <TextBlock 115 w:50 h:4>
 Sigurd
-"Currently Aveh is in
+"Currently Av is in
 confusion with Shakhan
 running amok.<New>
 It should be very easy
