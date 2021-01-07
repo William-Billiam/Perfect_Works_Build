@@ -15,7 +15,7 @@ here!<Close><End of Block>
 Elly
 "I'm an Imperial Special
 Forces lieutenant,<Delay 10>
-Elhaym Van Houten.<New>
+Elehayym Van Houten.<New>
 I have just completed
 the collection of the
 special levy of the 3rd

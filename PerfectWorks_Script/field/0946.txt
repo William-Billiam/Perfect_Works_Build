@@ -24,7 +24,7 @@ the Elements...?"<Close><End of Block>
 <TextBlock 6 w:46 h:4>
 Dominia
 "It's been a long time 
-Elhaym. The last time
+Elehayym. The last time
 was Jugend, wasn't it?"<Close><End of Block>
 <TextBlock 7 w:28 h:3>
 Elly

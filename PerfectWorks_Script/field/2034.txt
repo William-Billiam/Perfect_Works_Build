@@ -29,7 +29,7 @@ Citan
 the mother...?"<Close><End of Block>
 <TextBlock 8 w:40 h:3>
 Krelian
-"That girl<Delay 5>...<Delay 5>Elhaym,
+"That girl<Delay 5>...<Delay 5>Elehayym,
 is our 'mother'."<Close><End of Block>
 <TextBlock 9 w:36 h:4>
 Elly

@@ -100,7 +100,7 @@ Fei Fong Wong.<Delay 100>
 You can call me Fei."<Close><End of Block>
 <TextBlock 20 w:32 h:4>
 Mysterious Woman
-"I'm...Elhaym.
+"I'm...Elehayym.
 But my parents
 call me Elly."<Close><End of Block>
 <TextBlock 21 w:34 h:4>

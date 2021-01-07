@@ -137,7 +137,7 @@ A long<Delay 5>...<Delay 15>
 Never-ending,<Delay 15>
 Dream<Delay 5>...<Close><End of Block>
 <TextBlock 11 w:60 h:7>
-'Elhaym'<Delay 5>...<Delay 45>
+'Elehayym'<Delay 5>...<Delay 45>
  
 I've always liked that name<Delay 5>...<Delay 15>
 Because, when I first met him,
@@ -313,7 +313,7 @@ You will do<Delay 5>..."<Close><End of Block>
 Ramsus
 "Come out!<Delay 5> Fei!<Delay 15>
 If you will not come out,<Delay 5>
-I will crush Elhaym!"<Close><End of Block>
+I will crush Elehayym!"<Close><End of Block>
 <TextBlock 28 w:20 h:2>
 Elly
 "Uuhg<Delay 5>...<Delay 5>!"<Close><End of Block>

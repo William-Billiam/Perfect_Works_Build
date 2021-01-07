@@ -435,7 +435,7 @@ so that he may be saved!<New>
 It's neither for the sake
 of the world<Delay 5>...<Delay 15>
 nor for the sake of your
-girlfriend, Elhaym!"<Close><End of Block>
+girlfriend, Elehayym!"<Close><End of Block>
 <TextBlock 45 w:50 h:4>
 Dominia
 "We have no intentions of
