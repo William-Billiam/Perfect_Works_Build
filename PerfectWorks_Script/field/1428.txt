@@ -3,7 +3,7 @@ Fei
 "What's that!?"<Close><End of Block>
 <TextBlock 2 w:32 h:2>
 Fei
-"A Gebler ship?"<Close><End of Block>
+"A Geburah ship?"<Close><End of Block>
 <TextBlock 3 w:40 h:2>
 Fei
 "What is that Gear?"<Opcode 2 40><Close><End of Block>

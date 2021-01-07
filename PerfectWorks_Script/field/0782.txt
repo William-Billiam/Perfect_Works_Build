@@ -148,7 +148,7 @@ We should get started."<Close><End of Block>
 <TextBlock 31 w:26 h:4>
 Bart
 "First...<Delay 30>
-Gebler is the
+Geburah is the
 big problem."<Close><End of Block>
 <TextBlock 32 w:46 h:4>
 Citan
@@ -156,7 +156,7 @@ Citan
 towards achieving his
 goals.<New>
 That he is now the
-commander of Gebler
+commander of Geburah
 is proof of that.<New>
 A normal man<Delay 10> could not
 progress so quickly
@@ -178,14 +178,14 @@ concentrate on Shakhan.<New>
 Once he's out of the way
 and Av is safe again,
 we can think about how
-to deal with Gebler."<Close><End of Block>
+to deal with Geburah."<Close><End of Block>
 <TextBlock 35 w:54 h:4>
 Bart
 "With our present strength
 we should be able to hold
 off the royal guard forces.<New>
 The problem is how to deal
-with Gebler in the mean
+with Geburah in the mean
 time...<New>
 They will most likely move
 at Shakhan's request.
@@ -197,7 +197,7 @@ Citan
 look there please?"<Close><End of Block>
 <TextBlock 37 w:52 h:3>
 Citan
-"In short, we want Gebler
+"In short, we want Geburah
 to leave for a while...<New>
 At least until we are able
 to take back the Royal
@@ -231,7 +231,7 @@ sensitive to Nisan's
 and Kislev's actions.<New>
 If Nisan starts moving
 he will probably leave
-it up to Gebler, but..."<Close><End of Block>
+it up to Geburah, but..."<Close><End of Block>
 <TextBlock 43 w:42 h:4>
 Citan
 "Of course I do not
@@ -617,7 +617,7 @@ confusion with Shakhan
 running amok.<New>
 It should be very easy
 to bring down the center
-with no Gebler units
+with no Geburah units
 around.<New>
 It'll be the best time to
 make our return to the

@@ -66,7 +66,7 @@ What're you doing in
 Shevat!?<New>
 At one point, weren't
 you considered to be
-the next Gebler
+the next Geburah
 commander-in-chief!?"<Close><End of Block>
 <TextBlock 15 w:38 h:4>
 Fei

@@ -109,7 +109,7 @@ an image of a huge ship!!"<Close><End of Block>
 <TextBlock 24 w:28 h:3>
 Bart
 "What?<Delay 10> 
-Gebler again?"<Close><End of Block>
+Geburah again?"<Close><End of Block>
 <TextBlock 25 w:52 h:4>
 Sigurd
 "I don't know but it's
@@ -122,7 +122,7 @@ Bart
 Be right there."<Close><End of Block>
 <TextBlock 27 w:30 h:2>
 Citan
-"Gebler again?"<Close><End of Block>
+"Geburah again?"<Close><End of Block>
 <TextBlock 28 w:52 h:4>
 Sigurd
 "I don't know but it's 

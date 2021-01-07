@@ -44,7 +44,7 @@ to something in the
 land north of here.<New>
 But don't worry...
 If anything happens,
-Gebler will back us up.<Close><End of Block>
+Geburah will back us up.<Close><End of Block>
 <TextBlock 7 w:48 h:3>
 Hey, I haven't seen you
 'round here before.<New>

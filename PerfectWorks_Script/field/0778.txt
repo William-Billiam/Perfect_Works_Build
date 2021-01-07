@@ -224,11 +224,11 @@ Bart
 Bart
 "Sig...<New>
 What's up with you and
-that Gebler officer?
+that Geburah officer?
 What's the connection
 between you and him...?<New>
 You know,<Delay 30> you sure know
-a lot about Gebler for
+a lot about Geburah for
 some reason!"<Close><End of Block>
 <TextBlock 46 w:30 h:3>
 Sigurd
@@ -244,7 +244,7 @@ in Solaris."<Close><End of Block>
 Bart
 "Solaris...<New>
 ...<Delay 30>You mean...
-<Delay 30>where Gebler's from?"<Close><End of Block>
+<Delay 30>where Geburah's from?"<Close><End of Block>
 <TextBlock 49 w:30 h:2>
 Sigurd
 "That's right."<Close><End of Block>
@@ -458,7 +458,7 @@ Sigurd
 "His name is, Kahr...
 <Delay 30>Kahran Ramsus.<New>
 As you know he's the
-Gebler Commander."<Close><End of Block>
+Geburah Commander."<Close><End of Block>
 <TextBlock 83 w:24 h:2>
 Bart
 "Ramsus...?"<Close><End of Block>
@@ -576,7 +576,7 @@ the Solaris army can use?"<Close><End of Block>
 <TextBlock 101 w:50 h:4>
 Citan
 "At least anyone in the
-Gebler forces who is sent
+Geburah forces who is sent
 to the surface..."<Close><End of Block>
 <TextBlock 102 w:32 h:3>
 Bart
@@ -628,7 +628,7 @@ the Solaris army can use?"<Close><End of Block>
 <TextBlock 112 w:50 h:4>
 Citan
 "At least anyone in the
-Gebler forces who is sent
+Geburah forces who is sent
 to the surface..."<Close><End of Block>
 <TextBlock 113 w:32 h:3>
 Bart

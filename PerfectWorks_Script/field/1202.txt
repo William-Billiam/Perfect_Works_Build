@@ -80,7 +80,7 @@ controls Av...<New>
 He's planning military
 intervention in Nisan.<Delay 10>
 But for some reason,
-Gebler is stopping him...<New>
+Geburah is stopping him...<New>
 ...Oh,<Delay 5> so you already
 knew that?"<Close><End of Block>
 <TextBlock 17 w:46 h:2>

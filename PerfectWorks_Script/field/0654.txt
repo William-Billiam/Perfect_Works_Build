@@ -246,16 +246,16 @@ Citan
 not come from Av
 originally...<New>
 Most likely it belongs
-to the Gebler forces
+to the Geburah forces
 stationed in Av."<Close><End of Block>
 <TextBlock 46 w:18 h:2>
 Fei
-"Gebler?"<Close><End of Block>
+"Geburah?"<Close><End of Block>
 <TextBlock 47 w:48 h:4>
 Citan
 "Special forces from the
 Sacred Empire of Solaris
-known as Gebler.<New>
+known as Geburah.<New>
 I am sure you have heard
 something about them.<New>
 They are an organization
@@ -266,7 +266,7 @@ They showed up in Ignas
 about 11 years ago.
 Until then, Av was
 being routed by Kislev.<New>
-But with Gebler's help
+But with Geburah's help
 they have managed to
 regain half their loses.<New>
 They are now expanding

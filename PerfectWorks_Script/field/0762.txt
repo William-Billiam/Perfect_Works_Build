@@ -225,7 +225,7 @@ for?"<Close><End of Block>
 <TextBlock 40 w:32 h:4>
 Bart
 "Not just him.<Delay 10>
-Gebler is also
+Geburah is also
 looking for it."<Close><End of Block>
 <TextBlock 41 w:38 h:3>
 Citan

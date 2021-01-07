@@ -2,11 +2,11 @@
 Bart
 "Thanks to you, Av has
 been taken back from
-Shakhan and Gebler.<New>
+Shakhan and Geburah.<New>
 Thank you.<New>
 Now, in order to free
 other lands from
-Gebler and Solaris...<New>
+Geburah and Solaris...<New>
 ...we must destroy the
 other two gates and
 bring down Solaris.<New>
@@ -72,14 +72,14 @@ Shevat's cannon."<Close><End of Block>
 <TextBlock 14 w:40 h:3>
 Elly
 "And we don't have a
-Gebler battleship."<Close><End of Block>
+Geburah battleship."<Close><End of Block>
 <TextBlock 15 w:48 h:3>
 Fei
 "Is there any weapon
 that powerful on earth?"<Close><End of Block>
 <TextBlock 16 w:48 h:4>
 Citan
-"Gebler battleships and
+"Geburah battleships and
 Shevat's cannon are the
 most powerful weapons<New>
 ever produced by man..."<Close><End of Block>

@@ -139,13 +139,13 @@ your father...<New>
 In that hate stained
 friendship with Jesiah,
 we competed for command
-of Gebler!"<Close><End of Block>
+of Geburah!"<Close><End of Block>
 <TextBlock 28 w:52 h:4>
 Stone
 "Jesiah, like a beast, you
 stole the Racquel I loved,<New>
 and threw away the
-command of Gebler that I
+command of Geburah that I
 wanted so much, then
 disappeared from Solaris!"<Close><End of Block>
 <TextBlock 29 w:48 h:4>

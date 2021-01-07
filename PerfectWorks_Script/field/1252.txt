@@ -93,7 +93,7 @@ Elly
 Why are you here?"<Close><End of Block>
 <TextBlock 20 w:48 h:4>
 Dominia
-"Why? We Gebler need no
+"Why? We Geburah need no
 special reasons to sink
 an enemy ship!<New>
 It is our divine duty to
@@ -157,7 +157,7 @@ Show me your true power!"<Close><End of Block>
 <TextBlock 28 w:30 h:4>
 Elly
 "...I will.<New>
-If you Gebler
+If you Geburah
 are wise...<Delay 20>
 then <Delay 30>I'd rather
 be a fool!!"<Close><End of Block>

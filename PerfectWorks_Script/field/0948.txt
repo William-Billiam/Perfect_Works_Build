@@ -1,6 +1,6 @@
 <TextBlock 1 w:38 h:3>
 Fei
-"...Gebler's aerial
+"...Geburah's aerial
 battleship!"<Opcode 2 60><Close><End of Block>
 <TextBlock 2 w:30 h:4>
 Margie

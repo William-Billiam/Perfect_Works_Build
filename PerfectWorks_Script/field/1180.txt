@@ -316,7 +316,7 @@ Maison
 "Y, yes...young master...<New>
 I hear when they attacked
 the fort at the border,
-the Gebler, led by Ramsus,
+the Geburah, led by Ramsus,
 routed them.<New>
 We'd better withdraw for
 now, and reconsider..."<Close><End of Block>

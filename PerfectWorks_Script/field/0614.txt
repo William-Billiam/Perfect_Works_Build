@@ -50,10 +50,10 @@ amount of resources buried within
 their ruins.<Delay 30>
 But suddenly a mysterious military
 force appeared in the continent of
-Ignas.<Delay 20> Called 'Gebler', this force
+Ignas.<Delay 20> Called 'Geburah', this force
 decided to make contact with Av.<Delay 200><Delay 200><Delay 200><Close><End of Block>
 <TextBlock 7 w:68 h:11>
-With the assistance of this Gebler
+With the assistance of this Geburah
 military force,<Delay 5> Av was able to
 recover from being hopelessly out-
 numbered to being back on an even

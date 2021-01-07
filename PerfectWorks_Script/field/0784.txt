@@ -1,6 +1,6 @@
 <TextBlock 1 w:50 h:4>
 Citan
-"These are the Gebler 
+"These are the Geburah 
 units currently in Av, 
 correct?"<Close><End of Block>
 <TextBlock 2 w:46 h:2>
@@ -20,7 +20,7 @@ Citan
 "There are three main
 groups.<New>
 Each is made up of a
-mix of Gebler and Av
+mix of Geburah and Av
 forces. Only two of
 these are very large."<Close><End of Block>
 <TextBlock 6 w:50 h:4>

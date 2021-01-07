@@ -47,7 +47,7 @@ Hecht.<New>
 I wanna fight him, not as
 enemy soldiers, but as
 rival competitors...<New>
-We're the Gebler special
+We're the Geburah special
 forces and we won't be
 beaten!"<Close><End of Block>
 <TextBlock 11 w:10 h:2>

@@ -40,7 +40,7 @@ Fei
 Fei
 "Then should we go down
 with Maria?<New>
-It's the Gebler, right?<Delay 20>
+It's the Geburah, right?<Delay 20>
 I'm still ticked off at
 them. I'll take'em on."<Close><End of Block>
 <TextBlock 10 w:32 h:3>
@@ -378,7 +378,7 @@ Zephyr
 "What of the intruder?"<Close><End of Block>
 <TextBlock 56 w:50 h:3>
 Yes, we believe it's just
-a lone Gebler soldier.<New>
+a lone Geburah soldier.<New>
 It seems the individual
 has escaped to the number
 17 hangar!<Close><End of Block>

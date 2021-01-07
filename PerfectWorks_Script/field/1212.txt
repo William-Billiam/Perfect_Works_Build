@@ -263,7 +263,7 @@ carefully but quickly."<Close><End of Block>
 <TextBlock 51 w:50 h:4>
 Citan
 "In any case, we will not
-be able to avoid Gebler's
+be able to avoid Geburah's
 interference, will we?"<Close><End of Block>
 <TextBlock 52 w:36 h:4>
 Fei
@@ -279,7 +279,7 @@ area of this land until
 I arrived here."<Close><End of Block>
 <TextBlock 54 w:34 h:2>
 Fei
-"Even in Gebler?"<Close><End of Block>
+"Even in Geburah?"<Close><End of Block>
 <TextBlock 55 w:48 h:4>
 Elly
 "The relations with

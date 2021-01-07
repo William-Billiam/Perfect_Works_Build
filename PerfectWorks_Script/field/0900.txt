@@ -45,7 +45,7 @@ Bart
 "That's why there are so
 few of us.<New>
 Our objective is Shakhan!
-So ignore the Gebler and
+So ignore the Geburah and
 Av soldiers."<Close><End of Block>
 <TextBlock 7 w:30 h:3>
 Bart

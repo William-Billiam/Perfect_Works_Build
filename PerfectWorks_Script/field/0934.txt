@@ -149,7 +149,7 @@ enemy!"<Close><End of Block>
 Bart
 "Not an enemy? Are you
 sane? Look at her uniform!
-She's a Gebler officer!"<Close><End of Block>
+She's a Geburah officer!"<Close><End of Block>
 <TextBlock 30 w:10 h:2>
 Fei
 "..."<Close><End of Block>

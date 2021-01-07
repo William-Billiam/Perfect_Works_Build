@@ -2,7 +2,7 @@
 Sigurd
 "Young master, according to
 Margie, there's quite a
-troublemaker in Gebler."<Close><End of Block>
+troublemaker in Geburah."<Close><End of Block>
 <TextBlock 2 w:48 h:3>
 Bart
 "Yeah...
@@ -14,8 +14,8 @@ Solaris Empire's Special
 Foreign Affairs Agency<Delay 5>...<New>
 In other words, he's the
 commander in chief of
-Gebler.<New>
-It seems that Gebler isn't
+Geburah.<New>
+It seems that Geburah isn't
 just after the excavation
 sites around Av after
 all."<Close><End of Block>

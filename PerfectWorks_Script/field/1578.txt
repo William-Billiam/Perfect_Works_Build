@@ -72,7 +72,7 @@ defeat just because the
 central area's gone.<Delay 30>
 I have my own motives.<New>
 And it is for them, that
-I used Av and Gebler.
+I used Av and Geburah.
 Now, the treasure's mine.<Delay 30>
 I suggest you retreat now."<Close><End of Block>
 <TextBlock 20 w:20 h:2>

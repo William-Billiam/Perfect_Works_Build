@@ -13,7 +13,7 @@ But avoid any unnecessary
 deaths.<New>
 This especially goes for
 the Av troops<Delay 30> and also
-the people from Gebler."<Close><End of Block>
+the people from Geburah."<Close><End of Block>
 <TextBlock 3 w:30 h:3>
 Sigurd
 "Yes.<Delay 30>

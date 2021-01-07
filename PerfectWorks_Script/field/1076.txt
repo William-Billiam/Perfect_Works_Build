@@ -31,10 +31,10 @@ Let's hope it lasts...<Close><End of Block>
 Kislev and Av almost had
 a truce once before. <New>
 But the relationship 
-worsened due to Gebler.<Close><End of Block>
+worsened due to Geburah.<Close><End of Block>
 <TextBlock 8 w:54 h:3>
 Ever hear of a red Gear?
-I hear it took out a Gebler
+I hear it took out a Geburah
 unit.<New>
 If only he'd be our savior.<Close><End of Block>
 <TextBlock 9 w:50 h:3>

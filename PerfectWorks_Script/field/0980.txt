@@ -53,7 +53,7 @@ Bart
 How are the repairs?"<Close><End of Block>
 <TextBlock 9 w:46 h:4>
 Bart
-"Sig! What has Gebler's
+"Sig! What has Geburah's
 'Mister Puniverse' got
 to say?"<Close><End of Block>
 <TextBlock 10 w:46 h:4>

@@ -140,14 +140,14 @@ Citan
 speculation, but...<New>
 I suspect the incident that
 evening occured because the
-Gebler Special Force stole
+Geburah Special Force stole
 a Kislev Military Gear."<Close><End of Block>
 <TextBlock 27 w:54 h:4>
 Citan
 "Exactly.<New>
 When I examined the broken
 Gear in the village, I
-realized the Gebler pilot
+realized the Geburah pilot
 was riding a Kislev Gear.<New>
 It must have had some new
 technology involved in it
@@ -155,7 +155,7 @@ for the Kislev army to send
 pursuit forces after it."<Close><End of Block>
 <TextBlock 28 w:52 h:4>
 Citan
-"I suspect that the Gebler
+"I suspect that the Geburah
 Force was out to steal a
 new experimental Gear."<Close><End of Block>
 <TextBlock 29 w:52 h:4>
@@ -371,7 +371,7 @@ The war with Kislev might
 end, and life will be easy
 again. I'm so happy.<Close><End of Block>
 <TextBlock 59 w:50 h:3>
-Since those Gebler forces
+Since those Geburah forces
 came, Av's hardly ever
 lost to Kislev.<New>
 I wish the 'Ethos' would
