@@ -11,7 +11,7 @@ It's nothing like the
 half-assed stuff we've
 dealt with before."<Close><End of Block>
 <TextBlock 4 w:40 h:4>
-Miang
+Myyah
 "I don't think he'll
 get off the stage
 easily this time. <New>
@@ -22,24 +22,24 @@ it's similar to
 'the old days'
 now..."<Close><End of Block>
 <TextBlock 5 w:22 h:2>
-Miang
+Myyah
 "Ha, ha..."<Close><End of Block>
 <TextBlock 6 w:46 h:3>
-Miang
+Myyah
 "His feelings haven't
 changed over the years.<New>
 Maybe you have mixed
 feelings?"<Close><End of Block>
 <TextBlock 7 w:46 h:4>
-Miang
+Myyah
 "You want him to bring
 her back? Too late.
 Kahr has left already."<Close><End of Block>
 <TextBlock 8 w:14 h:2>
-Miang
+Myyah
 "What?"<Close><End of Block>
 <TextBlock 9 w:52 h:4>
-Miang
+Myyah
 "Isn't that what you want?
 Though I induced you to
 feel that way...<New>
@@ -48,7 +48,7 @@ Our only actual example
 of success. Let's take
 good care of him."<Close><End of Block>
 <TextBlock 10 w:44 h:4>
-Miang
+Myyah
 "I agree. We should do
 Kahr a favor and save
 him... shouldn't we?"<Close><End of Block>

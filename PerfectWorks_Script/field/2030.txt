@@ -15,11 +15,11 @@ ourselves!<Delay 20>
 Let's get outta here
 for now!!"<Close><End of Block>
 <TextBlock 4 w:50 h:3>
-Miang
+Myyah
 "Now, the time has come
 for the great awakening!"<Close><End of Block>
 <TextBlock 5 w:54 h:4>
-Miang
+Myyah
 "This is the true meaning
 of the -Anima Relics-...<New>
 To attain their respective
@@ -56,7 +56,7 @@ You're a bunch of stupid
 fools.<Delay 20> It's as if you're
 all clowns..."<Close><End of Block>
 <TextBlock 8 w:50 h:4>
-Miang
+Myyah
 "You believed the legend
 of how our world and the
 universe was created...<New>
@@ -65,7 +65,7 @@ fabricated that very myth
 a long time ago to suit
 our purposes."<Close><End of Block>
 <TextBlock 9 w:52 h:4>
-Miang
+Myyah
 "I think you'll find that
 your friends' Omnigears
 are all dead too...<New>

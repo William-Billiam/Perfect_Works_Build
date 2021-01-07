@@ -69,11 +69,11 @@ Shakhan
 east tower."<Close><End of Block>
 <TextBlock 13 w:28 h:4>
 Ramsus
-"Miang, could
+"Myyah, could
 it possibly be
 a 'Relic'?"<Close><End of Block>
 <TextBlock 14 w:54 h:4>
-Miang
+Myyah
 "Yes. But there is still no
 response. There seems to be
 a barrier or something.<New>
@@ -87,10 +87,10 @@ preserved too."<Close><End of Block>
 Ramsus
 "...Let's meet her.<New>
 I want to talk to her
-directly. Miang, you
+directly. Myyah, you
 come with me."<Close><End of Block>
 <TextBlock 16 w:20 h:2>
-Miang
+Myyah
 "Yes sir."<Close><End of Block>
 <TextBlock 17 w:22 h:2>
 Fei

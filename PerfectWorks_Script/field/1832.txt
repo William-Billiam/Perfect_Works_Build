@@ -71,7 +71,7 @@ Ramsus
 Krelian
 "Ramsus,<Delay 10> will you go?"<Close><End of Block>
 <TextBlock 15 w:44 h:2>
-Miang
+Myyah
 "Kahr,<Delay 10> are you going?"<Close><End of Block>
 <TextBlock 16 w:42 h:4>
 Ramsus
@@ -79,7 +79,7 @@ Ramsus
 I must get rid of him
 with my own hands."<Close><End of Block>
 <TextBlock 17 w:54 h:4>
-Miang
+Myyah
 "Be careful.<Delay 10>
 I believe in you
 no matter what others say."<Close><End of Block>

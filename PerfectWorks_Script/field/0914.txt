@@ -1,7 +1,7 @@
 <TextBlock 1 w:48 h:4>
 Ramsus
 "I am Ramsus, she is
-Miang. We would like to
+Myyah. We would like to
 ask you some questions."<Close><End of Block>
 <TextBlock 2 w:50 h:4>
 Margie

@@ -21,7 +21,7 @@ will all be deactivated...<New>
 And then we should also be
 able to free Elly, who has
 become bound to the Deus
-weapon system as 'Miang'."<Close><End of Block>
+weapon system as 'Myyah'."<Close><End of Block>
 <TextBlock 3 w:22 h:1>
 Right, Fei?<Close><End of Block>
 <TextBlock 4 w:42 h:4>
@@ -86,7 +86,7 @@ as parts for Deus would
 not have such intentions.<New>
 Try to remember what
 Elly, when she became
-Miang, said."<Close><End of Block>
+Myyah, said."<Close><End of Block>
 <TextBlock 13 w:48 h:4>
 Fei
 " 'The creations of god

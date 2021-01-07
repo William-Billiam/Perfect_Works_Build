@@ -1,5 +1,5 @@
 <TextBlock 1 w:34 h:1>
-Mother<Delay 10> was Miang.<Delay 100><Close><End of Block>
+Mother<Delay 10> was Myyah.<Delay 100><Close><End of Block>
 <TextBlock 2 w:58 h:1>
 <Opcode 14 1>Our's was an ordinary family.<Close><End of Block>
 <TextBlock 3 w:58 h:1>
@@ -86,7 +86,7 @@ experiments to study
 the power she knew
 existed within me.<New>
 Yes,<Delay 10> that woman<Delay 10>...<Delay 10>
-mother,<Delay 20> was Miang.<Close><End of Block>
+mother,<Delay 20> was Myyah.<Close><End of Block>
 <TextBlock 24 w:26 h:1>
 <Opcode 1 255>That's a lie!<Close><End of Block>
 <TextBlock 25 w:28 h:1>

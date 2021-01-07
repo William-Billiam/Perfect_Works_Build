@@ -169,7 +169,7 @@ Dominia
 "Krelian<Delay 5>...?<Delay 50>
 A countervailing
 existence<Delay 5>...?<New>
-That Miang<Delay 5>...<Delay 5>
+That Myyah<Delay 5>...<Delay 5>
 what's she up to<Delay 5>...?<Delay 50>
 I had better warn
 the Commander<Delay 5>...!"<Close><Close><End of Block>

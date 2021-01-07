@@ -497,7 +497,7 @@ Damn you!"<Close><End of Block>
 Ramsus
 "Guh...guhaah."<Close><End of Block>
 <TextBlock 112 w:54 h:3>
-Miang
+Myyah
 "Calm down, Commander!
 It's not good for you.<New>
 You still haven't recovered
@@ -518,7 +518,7 @@ If you aren't the
 are<Delay 5>...<Close><End of Block>
 <TextBlock 117 w:36 h:4>
 Ramsus
-"Miang<Delay 5>...<Delay 5>
+"Myyah<Delay 5>...<Delay 5>
 Launch the ship<Delay 5>...<Delay 5>
 Get to him<Delay 5>..."<Close><End of Block>
 <TextBlock 118 w:46 h:4>
@@ -527,7 +527,7 @@ Ramsus
 I'll go myself<Delay 5>...<Delay 5> and
 I'll bring him down<Delay 5>..."<Close><End of Block>
 <TextBlock 119 w:50 h:3>
-Miang
+Myyah
 "Commander, you can't go 
 out there like that!"<Close><End of Block>
 <TextBlock 120 w:40 h:4>
@@ -536,7 +536,7 @@ Kelvena
 permission to handle
 the situation?"<Close><End of Block>
 <TextBlock 121 w:20 h:2>
-Miang
+Myyah
 "You all?"<Close><End of Block>
 <TextBlock 122 w:48 h:3>
 Dominia
@@ -1034,7 +1034,7 @@ destroy<Delay 5> 'Cain'<Delay 5>...<Close><End of Block>
 So 'Mother',<Delay 5> will
 you do it for us?<Close><End of Block>
 <TextBlock 230 w:52 h:3>
-Miang
+Myyah
 "Maybe<Delay 5>...<Delay 5>
 Did Krelian say anything?"<Close><End of Block>
 <TextBlock 231 w:42 h:4>
@@ -1046,7 +1046,7 @@ With everything
 focusing towards
 a single point<Delay 5>...<Close><End of Block>
 <TextBlock 232 w:48 h:3>
-Miang
+Myyah
 "I see<Delay 5>...<Delay 5><New>
 But Kahr is still shaken
 up by<Delay 5>...<Delay 5>yesterday's
@@ -1082,7 +1082,7 @@ to us than you<Delay 5>...<Close><End of Block>
 Ramsus
 "<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 243 w:44 h:4>
-Miang
+Myyah
 "Kahr<Delay 5>...<Delay 5>
 Don't worry.<New>
 I'll always be by your
@@ -1091,7 +1091,7 @@ better than I do.
 So don't<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 244 w:48 h:4>
 Ramsus
-"Miang!<Delay 15>
+"Myyah!<Delay 15>
 Is this<Delay 5>...<Delay 5>
 Is this all I can do?<New>
 Is this the extent of my
@@ -1120,7 +1120,7 @@ superior being<Delay 5>...<New>
 If you could defeat him,
 then you would be<Delay 5>..."<Close><End of Block>
 <TextBlock 246 w:52 h:4>
-Miang
+Myyah
 "Yes.<New>
 Even with your superior
 constitution, the

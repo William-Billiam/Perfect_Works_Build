@@ -425,7 +425,7 @@ Dominia
 "Don't get any wrong
 ideas there.<Delay 10> We are here
 to help our Commander.<New>
-Miang and Krelian have been
+Myyah and Krelian have been
 manipulating his emotions
 for the sole purpose of
 eliminating the Emperor.<New>
@@ -590,7 +590,7 @@ power behind the scenes."<Close><End of Block>
 <TextBlock 64 w:42 h:3>
 Citan
 "<Delay 5>...<Delay 5>Would that happen
-to have been Miang?"<Close><End of Block>
+to have been Myyah?"<Close><End of Block>
 <TextBlock 65 w:46 h:2>
 Zephyr
 "Most probably it was."<Close><End of Block>
@@ -599,7 +599,7 @@ Fearing the increasing power
 of the masses assembling in
 Nisan,<Delay 5> the Gazel Ministry
 schemed to hand over to us
-their antagonist,<Delay 5> Miang,<Delay 5> and
+their antagonist,<Delay 5> Myyah,<Delay 5> and
 promised a division of the
 rulership over the earth's
 surface.<New>
@@ -707,7 +707,7 @@ Citan
 That has the same name as
 the <Delay 10>'Zohar Modifier'<Delay 10>...<New>
 ...<Delay 5>the power reactor that
-Miang spoke of,<Delay 5> saying it
+Myyah spoke of,<Delay 5> saying it
 was the infinite energy
 source of god<Delay 5> -Deus-<Delay 5>...<New>
 What she claimed is also

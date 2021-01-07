@@ -193,7 +193,7 @@ the Complement."<Close><End of Block>
 <TextBlock 42 w:26 h:3>
 Fei
 "That is Elly
-and<Delay 5>...<Delay 5>Miang."<Close><End of Block>
+and<Delay 5>...<Delay 5>Myyah."<Close><End of Block>
 <TextBlock 43 w:42 h:4>
 Fei
 "I, the sole survivor
@@ -218,7 +218,7 @@ introns."<Close><End of Block>
 <TextBlock 46 w:36 h:4>
 Fei
 "But Elly and I...<Delay 15>
-and Miang...<Delay 15>
+and Myyah...<Delay 15>
 are different."<Close><End of Block>
 <TextBlock 47 w:54 h:4>
 Fei
@@ -243,7 +243,7 @@ Existence."<Close><End of Block>
 <TextBlock 49 w:46 h:4>
 Fei
 "This is the form from
-when Elly and Miang
+when Elly and Myyah
 were still one being<Delay 5>...<New>
 This is the first
 woman of our world<Delay 5>..."<Close><End of Block>
