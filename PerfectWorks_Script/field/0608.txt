@@ -7,7 +7,7 @@ sister's marriage and
 doesn't seem to be able
 to calm down.<New>
 He likes to talk and act
-big, but he really is
+big, but he's really
 still just a kid...
 It's kinda cute, huh?"<Close><End of Block>
 <TextBlock 2 w:52 h:4>
@@ -488,7 +488,7 @@ new life emerges...<Delay 20>
 I'm not saying we're
 doing it.<New>
 It's just the earth, 
-rain and sun combining 
+rain, and sun combining 
 together to nurture 
 these striving new lives.<New>
 We're just helping 
