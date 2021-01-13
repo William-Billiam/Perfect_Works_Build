@@ -62,7 +62,7 @@ Fei..."<Close><End of Block>
 <TextBlock 16 w:32 h:3>
 Citan
 "Yes...<Delay 20>
-Well that is..."<Close><End of Block>
+Well that's..."<Close><End of Block>
 <TextBlock 17 w:12 h:2>
 Citan
 "Dan!"<Close><End of Block>
@@ -72,8 +72,8 @@ fight in the middle
 of the village...?<Close><End of Block>
 <TextBlock 19 w:40 h:3>
 How do you even know
-how to operate such
-a monster...?<Close><End of Block>
+how to operate that...
+that monster!?<Close><End of Block>
 <TextBlock 20 w:32 h:2>
 Mother...?<Delay 20>
 Where mother...?<Close><End of Block>
@@ -89,10 +89,10 @@ Hurts...It hurts...<Close><End of Block>
 <TextBlock 23 w:46 h:4>
 Citan
 "Dan...<Delay 20><New>
-There is nothing to be
-gained from putting the
-blame all on Fei alone.<New>
-What is more, you know
+There's nothing to be
+gained from putting all
+the blame on Fei.<New>
+What's more, you know
 Fei had no control over
 the malfunction of that
 Gear.<Close><End of Block>
@@ -117,10 +117,10 @@ They will probably want
 to know what happened
 to their comrades.<New>
 Also, if you stay here, I
-do not think the atmosphere
+don't think the atmosphere
 is going to be very joyful
 ...if you know what I mean.<New>
-It is probably best for
+It's probably best for
 both you and all the
 other villagers here.<Close><End of Block>
 <TextBlock 26 w:50 h:4>
@@ -128,9 +128,9 @@ Citan
 "Yes, well... <Delay 20>Why not go
 through the Blackmoon
 Forest and head for Av?<New>
-I am sure those soldiers
-from yesterday were not
-from Av.<New>
+I'm sure those soldiers
+from yesterday didn't
+come from there.<New>
 If you can manage to get
 to the Av side, they
 will not be able to track
@@ -161,7 +161,7 @@ village are all...!!"<Close><End of Block>
 <TextBlock 32 w:48 h:3>
 Dan
 "You killed everyone
-using that monster...!!"<Close><End of Block>
+wiht that monster...!!"<Close><End of Block>
 <TextBlock 33 w:50 h:4>
 Dan
 "Murderer!!
@@ -190,7 +190,7 @@ love...<Delay 20>Like the sea of
 hell, <Delay 10>red, deep...!<Close><End of Block>
 <TextBlock 39 w:44 h:2>
 Dan
-"Uuuaaaaaaahhhhh...!!"<Opcode 2 30><Close><End of Block>
+"AaaaaaaAHHHHH...!!"<Opcode 2 30><Close><End of Block>
 <TextBlock 40 w:18 h:1>
 Yikes...!<Opcode 2 30><Close><End of Block>
 <TextBlock 41 w:32 h:2>
