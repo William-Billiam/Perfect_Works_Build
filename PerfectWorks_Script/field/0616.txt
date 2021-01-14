@@ -5,8 +5,8 @@ I'm the village consultant.<Delay 20>
 the village chief knows far
 more than I do...<New>
 However, the chief is an
-awfully busy person, so I
-have been placed in charge
+awfully busy person, so I've
+been placed in charge
 of answering some of the
 more mundane questions.)<Close><End of Block>
 <TextBlock 2 w:58 h:5>
@@ -36,10 +36,10 @@ between groups with the Left
 & Right Directional buttons.<New>
 The first group includes the
 most frequently used Attack,
-Defense and Chi options.<Delay 20>
+Defense, and Chi options.<Delay 20>
 The second group contains
 special commands such as
-Combo, Escape and so forth.<New>
+Combo, Escape, and so forth.<New>
 You fight by skillfully
 selecting from the two
 groups of options the
@@ -63,16 +63,16 @@ Well allow me to begin...<Close><End of Block>
 <TextBlock 9 w:56 h:6>
 By choosing 'Defense', you
 can halve the damage your
-opponent does to you.<Delay 20>
+opponent does to you, but<Delay 20>
+you won't be able to dodge.
 Fighting is not just about
-being on the offensive - at
-times it pays to hold back.<New>
+being on the offensive - at<New>
+times it pays to hold back.
 When you find yourself in a
 pinch, it may be a good idea
 to leave the attacking up to
 your other party members and
-simply choose to defend
-yourself from enemy attacks.<Close><End of Block>
+simply choose to defend.<Close><End of Block>
 <TextBlock 10 w:50 h:5>
 ...Well, that's about it.<Delay 20>
 Oh, and if you have any
@@ -233,7 +233,7 @@ Not everyone has the
 talent to use such powers.
 People are each born with
 differing innate abilities.<New>
-If that individual does
+If an individual does
 have the gift, increasing
 in level will give birth
 to more powerful abilities.<Close><End of Block>

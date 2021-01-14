@@ -1,13 +1,13 @@
 <TextBlock 1 w:56 h:3>
 The remote village of Lahan,
- in the outskirts of Av,
+ on the outskirts of Av,
 near the border with Kislev.<Opcode 2 160><Close><End of Block>
 <TextBlock 2 w:56 h:1>
 This is where it all begins.<Opcode 2 150><Close><End of Block>
 <TextBlock 3 w:68 h:12>
 The continent of Ignas, in the
 northern hemisphere of our world.<Delay 30>
-On this, the largest continent,
+On the world's largest continent,
 a war has been raging between two
 countries for hundreds of years.<Delay 30>
 In the north of the continent lies
@@ -31,8 +31,8 @@ repair the discoveries, in order
 to increase their military power.<Delay 200><Delay 220><Delay 220><Close><End of Block>
 <TextBlock 5 w:68 h:10>
 The various weapons excavated from
-the ruins greatly changed the form
-of warfare.<Delay 30>
+the ruins drasitcally changed the
+form of warfare.<Delay 30>
 The outcome of the battles between
 the two countries was no longer
 determined by man-to-man combat,
