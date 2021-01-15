@@ -45,7 +45,7 @@ pattern cancelled!<Delay 16>
 <TextBlock 9 w:54 h:4>
 Ramsus
 "Th, that Gear! No mistake!
-It's him! Demon of Elru...!<Delay 50>
+It's him! Demon of Elul...!<Delay 50>
 Myyah! Let's go!"<Close><End of Block>
 <TextBlock 10 w:26 h:3>
 Ramsus

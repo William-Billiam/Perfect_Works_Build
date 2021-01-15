@@ -614,7 +614,7 @@ the agreement.<New>
 So please, stay behind and
 protect everyone here."<Close><End of Block>
 <TextBlock 64 w:38 h:2>
-Helmholz
+Helmholtz
 "But,<Delay 5> it's a trap!"<Close><End of Block>
 <TextBlock 65 w:18 h:2>
 Elly
@@ -683,7 +683,7 @@ I guess it's a woman's
 prerogative to be selfish
 <Delay 5>...<Delay 5>perhaps."<Close><End of Block>
 <TextBlock 77 w:54 h:2>
-Helmholz
+Helmholtz
 "A woman's prerogative...?"<Close><End of Block>
 <TextBlock 78 w:50 h:4>
 Elly

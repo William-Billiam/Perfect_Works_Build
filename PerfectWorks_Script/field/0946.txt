@@ -17,7 +17,7 @@ be the escort commander.<Close><End of Block>
 Elly
 "Dominia!?"<Close><End of Block>
 <TextBlock 5 w:48 h:4>
-Helmholz
+Helmholtz
 "...Dominia, who's that?<Delay 30>
 Hey, not the one from
 the Elements...?"<Close><End of Block>

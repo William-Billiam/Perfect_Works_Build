@@ -1235,7 +1235,7 @@ Citan
 "He is Fei.<Delay 30>
 But he is also the one
 who...<New>
-destroyed Elru,<Delay 10> caused Kahr
+destroyed Elul,<Delay 10> caused Kahr
 serious injury,<Delay 10> sank the
 Yggdrasil,<Delay 10> killed Rico's
 subordinate's in Kislev...<New>
@@ -1310,7 +1310,7 @@ You probably know that Fei
 worked with Grahf as the
 assasin 'Id' before he was
 brought to live in Lahan.<New>
-It was then that Elru,<Delay 5>
+It was then that Elul,<Delay 5>
 the homeland of Dominia,<Delay 5>
 was utterly obliterated.<New>
 Grahf was intentionally

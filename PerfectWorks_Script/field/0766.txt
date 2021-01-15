@@ -1,5 +1,5 @@
 <TextBlock 1 w:34 h:2>
-Helmholz
+Helmholtz
 "Prep complete!!"<Close><End of Block>
 <TextBlock 2 w:30 h:2>
 Stratski
@@ -10,7 +10,7 @@ Broyer
 It's their
 base, alright."<Close><End of Block>
 <TextBlock 4 w:42 h:3>
-Helmholz
+Helmholtz
 "That rock was easy
 to break through.<New>
 I thought it would be
@@ -42,7 +42,7 @@ where are the Gears?"<Close><End of Block>
 Stratski
 "Over here?"<Close><End of Block>
 <TextBlock 10 w:36 h:3>
-Helmholz
+Helmholtz
 "To the right!<Delay 10>
 There's a hangar!"<Close><End of Block>
 <TextBlock 11 w:16 h:2>
@@ -52,7 +52,7 @@ Stratski
 Vance
 "Found them!!"<Close><End of Block>
 <TextBlock 13 w:44 h:4>
-Helmholz
+Helmholtz
 "These are 'Deurmods'.
 They're standard
 pirate Gears."<Close><End of Block>

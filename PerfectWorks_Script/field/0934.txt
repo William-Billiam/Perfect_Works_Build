@@ -32,7 +32,7 @@ just going to drop them
 for fun.<New>
 You bet I'm worried."<Close><End of Block>
 <TextBlock 6 w:32 h:3>
-Helmholz
+Helmholtz
 "Maybe to purge 
 the Lambs?"<Close><End of Block>
 <TextBlock 7 w:48 h:4>
@@ -84,7 +84,7 @@ Elly
 "Not really...
 It's quite natural."<Close><End of Block>
 <TextBlock 15 w:42 h:3>
-Helmholz
+Helmholtz
 "...So, how about it?
 Are you gonna do it?"<Close><End of Block>
 <TextBlock 16 w:42 h:4>
@@ -100,7 +100,7 @@ escorting the Hecht.<New>
 I won't help with 
 anything else."<Close><End of Block>
 <TextBlock 18 w:48 h:3>
-Helmholz
+Helmholtz
 "...But, what if
 something happens?<New>
 You're just backing

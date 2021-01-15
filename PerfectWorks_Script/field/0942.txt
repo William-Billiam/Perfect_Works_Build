@@ -76,7 +76,7 @@ Stratski
 handedly from the Kislev
 infiltration operation."<Close><End of Block>
 <TextBlock 19 w:46 h:4>
-Helmholz
+Helmholtz
 "And 'empty-handedly' I
 hear! No souvenirs for
 the Commander, huh?"<Close><End of Block>

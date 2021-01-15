@@ -13,7 +13,7 @@ Stratski
 "Hey, this is Kislev!
 What's he doing here?"<Close><End of Block>
 <TextBlock 4 w:38 h:3>
-Helmholz
+Helmholtz
 "He seems to follow
 us everywhere!"<Close><End of Block>
 <TextBlock 5 w:48 h:4>
