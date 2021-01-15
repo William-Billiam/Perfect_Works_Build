@@ -405,7 +405,7 @@ whereabouts...<Delay 30>
 And<Delay 5> two weeks later,
 we found her.<New>
 Using the data obtained
-from Razael and his own
+from Raziel and his own
 nanomachine technology,<Delay 5>
 Krelian had begun the
 construction of god's ark,<Delay 5>
@@ -688,7 +688,7 @@ Citan
 Zephyr
 "God's resting place, 
 'Mahanon'<Delay 5>...<Delay 30> The source of
-divine wisdom, 'Razael'<Delay 5>...<New>
+divine wisdom, 'Raziel'<Delay 5>...<New>
 And the 'Anima Relics'
 which were created by
 that very wisdom<Delay 5>...<New>

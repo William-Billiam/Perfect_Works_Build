@@ -64,7 +64,7 @@ weapon which could act upon
 its own will to take control
 of a targeted planet.<Delay 20> But you
 should've known this much from
-looking at the Razael records.<New>
+looking at the Raziel records.<New>
 Anyway, during a test run,
 Deus became uncontrollable.
 It released its power and
