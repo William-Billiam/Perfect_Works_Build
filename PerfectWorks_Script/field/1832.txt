@@ -72,7 +72,7 @@ Karellen
 "Ramsus,<Delay 10> will you go?"<Close><End of Block>
 <TextBlock 15 w:44 h:2>
 Myyah
-"Kahr,<Delay 10> are you going?"<Close><End of Block>
+"Carl,<Delay 10> are you going?"<Close><End of Block>
 <TextBlock 16 w:42 h:4>
 Ramsus
 "Yes.<Delay 10>

@@ -455,8 +455,8 @@ country by stealing
 surface dwellers."<Close><End of Block>
 <TextBlock 82 w:42 h:3>
 Sigurd
-"His name is, Kahr...
-<Delay 30>Kahran Ramsus.<New>
+"His name is, Carl...
+<Delay 30>Carlin Ramsus.<New>
 As you know he's the
 Geburah Commander."<Close><End of Block>
 <TextBlock 83 w:24 h:2>
@@ -464,7 +464,7 @@ Bart
 "Ramsus...?"<Close><End of Block>
 <TextBlock 84 w:46 h:3>
 Sigurd
-"We call him Kahr.<New>
+"We call him Carl.<New>
 In Solaris there is an
 officer training school
 called 'Jugend'.<New>

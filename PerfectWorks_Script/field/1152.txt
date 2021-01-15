@@ -1048,7 +1048,7 @@ a single point<Delay 5>...<Close><End of Block>
 <TextBlock 232 w:48 h:3>
 Myyah
 "I see<Delay 5>...<Delay 5><New>
-But Kahr is still shaken
+But Carl is still shaken
 up by<Delay 5>...<Delay 5>yesterday's
 defeat against Fei.<New>
 We are almost ready.<Delay 10>
@@ -1083,7 +1083,7 @@ Ramsus
 "<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 243 w:44 h:4>
 Myyah
-"Kahr<Delay 5>...<Delay 5>
+"Carl<Delay 5>...<Delay 5>
 Don't worry.<New>
 I'll always be by your
 side. No one knows you
@@ -1129,7 +1129,7 @@ being hinders you.<New>
 If you could eliminate the
 divided power, then it
 would all be yours<Delay 5>...<Delay 5>
-Don't you agree, Kahr<Delay 5>...?"<Close><End of Block>
+Don't you agree, Carl<Delay 5>...?"<Close><End of Block>
 <TextBlock 247 w:26 h:2>
 So<Delay 5>...
 Cain is dead?<Close><End of Block>

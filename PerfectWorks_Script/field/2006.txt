@@ -52,7 +52,7 @@ Fei
 "According to what the doc
 says, his condition has
 gotten a lot better.<New>
-It seems like Kahr has
+It seems like Carl has
 regained his will to
 live again."<Close><End of Block>
 <TextBlock 6 w:50 h:4>
@@ -71,7 +71,7 @@ Citan
 "Yes, well, at first, he
 had lost faith in himself
 but now he is better.<New>
-Kahr has revived himself,
+Carl has revived himself,
 and has found some real
 meaning in his life.<New>
 If he decides to fight on

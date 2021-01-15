@@ -95,7 +95,7 @@ Karellen
 <TextBlock 19 w:38 h:3>
 Myyah
 "What are you doing
-here,<Delay 20> Kahr?"<Close><End of Block>
+here,<Delay 20> Carl?"<Close><End of Block>
 <TextBlock 20 w:54 h:4>
 Myyah
 "There was only one purpose
@@ -155,7 +155,7 @@ Myyah
 Myyah
 "Good<Delay 5>...<Delay 5>
 This is how I wanted it,
-Kahr<Delay 5>...<New>
+Carl<Delay 5>...<New>
 I am fated so as not to
 be able to kill myself<Delay 5>...<New>
 Now<Delay 5>...<Delay 5>all<Delay 5>...<Delay 5>my<Delay 5>...<Delay 5>wishes<Delay 20>

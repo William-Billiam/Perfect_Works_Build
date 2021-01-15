@@ -407,7 +407,7 @@ Sigurd
 Now I see why you came
 down to the surface...<New>
 Alright, I understand you.
-But Kahran Ramsus...
+But Carlin Ramsus...
 taking over the post of
 Av is pretty annoying."<Close><End of Block>
 <TextBlock 65 w:38 h:4>
@@ -438,7 +438,7 @@ she is still...?"<Close><End of Block>
 Sigurd
 "According to Fei,
 there was a female aide
-on Kahr's side...<New>
+on Carl's side...<New>
 And he said that she had
 Indigo blue eyes and hair.
 ... 
@@ -456,13 +456,13 @@ Sigurd
 "Hyuga<Delay 5>...<Delay 10>
 To be honest with you<Delay 5>...<Delay 5>
 she scares me.<New>
-She supports Kahr and
+She supports Carl and
 is kind to anyone, 
 I know that very well.<New>
 But sometimes I felt
 a strange fear in her.
 That bothers me more than
-Kahr being in this land."<Close><End of Block>
+Carl being in this land."<Close><End of Block>
 <TextBlock 74 w:46 h:3>
 Citan
 "That cannot be true...
@@ -536,7 +536,7 @@ I'm sorry."<Close><End of Block>
 Citan
 "When you left Solaris,
 the same thing happened.<Delay 10>
-Kahr was quite upset then."<Close><End of Block>
+Carl was quite upset then."<Close><End of Block>
 <TextBlock 89 w:34 h:3>
 Sigurd
 "I didn't mean to

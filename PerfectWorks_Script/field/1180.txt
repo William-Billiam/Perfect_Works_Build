@@ -352,7 +352,7 @@ Sigurd
 "Young master...?"<Close><End of Block>
 <TextBlock 73 w:14 h:2>
 Sigurd
-"Kahr!"<Close><End of Block>
+"Carl!"<Close><End of Block>
 <TextBlock 74 w:34 h:2>
 Sigurd
 "Young master!!!"<Opcode 2 32><Close><End of Block>

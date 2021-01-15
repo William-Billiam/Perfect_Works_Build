@@ -11,7 +11,7 @@ Ramsus
 It was nothing."<Close><End of Block>
 <TextBlock 3 w:18 h:2>
 Myyah
-"Kahr..."<Opcode 2 50><Close><End of Block>
+"Carl..."<Opcode 2 50><Close><End of Block>
 <TextBlock 4 w:30 h:4>
 Myyah
 "Peeping is not

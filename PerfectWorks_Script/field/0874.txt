@@ -22,7 +22,7 @@ Sigurd
 <TextBlock 7 w:36 h:3>
 Citan
 "Oh-oh...!<Delay 100>
-Where is Kahr...?"<Close><End of Block>
+Where is Carl...?"<Close><End of Block>
 <TextBlock 8 w:52 h:4>
 Myyah
 "I see you are quick

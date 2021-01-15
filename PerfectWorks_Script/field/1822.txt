@@ -34,7 +34,7 @@ feelings?"<Close><End of Block>
 Myyah
 "You want him to bring
 her back? Too late.
-Kahr has left already."<Close><End of Block>
+Carl has left already."<Close><End of Block>
 <TextBlock 8 w:14 h:2>
 Myyah
 "What?"<Close><End of Block>
@@ -50,7 +50,7 @@ good care of him."<Close><End of Block>
 <TextBlock 10 w:44 h:4>
 Myyah
 "I agree. We should do
-Kahr a favor and save
+Carl a favor and save
 him... shouldn't we?"<Close><End of Block>
 <TextBlock 11 w:34 h:2>
 Karellen

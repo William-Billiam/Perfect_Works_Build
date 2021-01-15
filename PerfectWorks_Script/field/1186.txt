@@ -9,7 +9,7 @@ Bart
 So, who the heck is he?"<Close><End of Block>
 <TextBlock 3 w:52 h:4>
 Sigurd
-"Kahran Ramsus<Delay 10> of the Holy
+"Carlin Ramsus<Delay 10> of the Holy
 Solaris Empire's Special
 Foreign Affairs Agency<Delay 5>...<New>
 In other words, he's the
@@ -1235,7 +1235,7 @@ Citan
 "He is Fei.<Delay 30>
 But he is also the one
 who...<New>
-destroyed Elul,<Delay 10> caused Kahr
+destroyed Elul,<Delay 10> caused Carl
 serious injury,<Delay 10> sank the
 Yggdrasil,<Delay 10> killed Rico's
 subordinate's in Kislev...<New>

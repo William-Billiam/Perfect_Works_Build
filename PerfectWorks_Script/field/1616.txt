@@ -26,7 +26,7 @@ Elements!?"<Close><End of Block>
 <TextBlock 6 w:52 h:3>
 Citan
 "You are the ones who left
-Kahr for the surface...<Delay 20><New>
+Carl for the surface...<Delay 20><New>
 You must have a good
 reason."<Close><End of Block>
 <TextBlock 7 w:52 h:4>
