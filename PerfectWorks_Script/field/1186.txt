@@ -49,13 +49,13 @@ Zohar and awoke...<New>
 But we've found out Deus
 is in the center of the
 giant structure created
-out of the fallen Merkava.<New>
+out of the fallen Merkabah.<New>
 The only way we can think
 of to destroy Deus is to
 penetrate into there and
 make our way to the center.<New>
 That structure used to be
-Merkava itself, but we
+Merkabah itself, but we
 must assume the inside has
 changed significantly.<New>
 We don't know what dangers
@@ -1147,7 +1147,7 @@ to happen!?"<Close><End of Block>
 <TextBlock 189 w:52 h:4>
 Citan
 "Something is happening in
-the center of Merkava...<Delay 10>
+the center of Merkabah...<Delay 10>
 What could it be...!?"<Close><End of Block>
 <TextBlock 190 w:46 h:4>
 Billy

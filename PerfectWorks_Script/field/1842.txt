@@ -409,12 +409,12 @@ from Raziel and his own
 nanomachine technology,<Delay 5>
 Karellen had begun the
 construction of god's ark,<Delay 5>
-'Merkava'.
+'Merkabah'.
 Its completion was imminent.<Delay 45>
  
 To prevent its activation,<Delay 5>
 and to rescue Elly<Delay 5>...<Delay 5>
-we headed for<Delay 5> Merkava!<Close><End of Block>
+we headed for<Delay 5> Merkabah!<Close><End of Block>
 <TextBlock 43 w:46 h:4>
 Fei
 "You again<Delay 5>...?<Delay 30>
@@ -459,7 +459,7 @@ Dominia
 We'll make you eat those
 words<Delay 5>...<Delay 5> You wait and see!"<Close><End of Block>
 <TextBlock 49 w:56 h:11>
-We entered inside of Merkava
+We entered inside of Merkabah
 and,<Delay 5> while fighting back
 units of weapons that self-
 regenerated through the use
@@ -475,7 +475,7 @@ God<Delay 5>...<Delay 5>the inter-planetary
 invasion weapon -Deus-<Delay 5>...<Delay 5>
 had awakened and its ark,
  
-Merkava
+Merkabah
  
 was activated.<Close><End of Block>
 <TextBlock 51 w:54 h:12>
@@ -495,7 +495,7 @@ it set into action.<Close><End of Block>
 The planet's surface
 was devastated<Delay 5>...<Delay 5>
  
-<Delay 5>...<Delay 5>by Merkava<Delay 5>
+<Delay 5>...<Delay 5>by Merkabah<Delay 5>
 and the weapons born
 from out of it,<Delay 5> called<Delay 5>...<Delay 45>
  
@@ -511,7 +511,7 @@ Along with his Gear,<Delay 5>
 <Weltall><Delay 5>...<Delay 15>
  
 Discovered together<Delay 5>
-at the place where<Delay 5> 'Merkava'<Delay 5>
+at the place where<Delay 5> 'Merkabah'<Delay 5>
 was originally located<Delay 5>...<Close><End of Block>
 <TextBlock 54 w:54 h:10>
 We were overjoyed by
@@ -687,7 +687,7 @@ Citan
 <TextBlock 75 w:52 h:4>
 Zephyr
 "God's resting place, 
-'Mahanon'<Delay 5>...<Delay 30> The source of
+'Machanon'<Delay 5>...<Delay 30> The source of
 divine wisdom, 'Raziel'<Delay 5>...<New>
 And the 'Anima Relics'
 which were created by
@@ -781,7 +781,7 @@ us for what we were about
 to see there<Delay 5>...<Close><End of Block>
 <TextBlock 84 w:54 h:8>
 We set out to silence god's
-ark,<Delay 5> 'Merkava',<Delay 5> which was
+ark,<Delay 5> 'Merkabah',<Delay 5> which was
 the epitome of offensive
 and defensive power<Delay 5>...<Delay 5>
 and then storm inside it<Delay 5>...<Delay 45>
@@ -792,12 +792,12 @@ to destroy 'Zohar'.<Close><End of Block>
 At that time, the earth
 quaked and shook.<Delay 15> And,<Delay 5>
 from the location where
-the Merkava crashed,<Delay 15> a
+the Merkabah crashed,<Delay 15> a
 giant object appeared.<New>
  
 It was Deus' final form.<Delay 45>
  
-The Merkava was merely
+The Merkabah was merely
 its vessel.<Delay 15>
 Deus evolved through
 the use of Karellen's

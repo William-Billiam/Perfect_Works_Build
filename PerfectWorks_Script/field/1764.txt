@@ -91,7 +91,7 @@ You already own the world!<New>
 What more do you want?"<Close><End of Block>
 <TextBlock 21 w:54 h:3>
 Fei
-"Aerial Paradise Mahanon?<Delay 30>
+"Aerial Paradise Machanon?<Delay 30>
 The place fell to earth..."<Close><End of Block>
 <TextBlock 22 w:40 h:2>
 Fei
@@ -341,7 +341,7 @@ Elder
 "God will awaken from his
 long slumber after man has
 populated the land...<New>
-Then, Mahanon too will
+Then, Machanon too will
 awaken..."<Close><End of Block>
 <TextBlock 67 w:54 h:3>
 Elder
@@ -351,7 +351,7 @@ That may be a proper
 description...
 Our ark...<New>
 In the center block lord
-'Mahanon' is sealed in.<New>
+'Machanon' is sealed in.<New>
 That is the source of god's
 wisdom...A paradise of
 knowledge..."<Close><End of Block>

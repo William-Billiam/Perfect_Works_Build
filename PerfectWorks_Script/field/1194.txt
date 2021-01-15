@@ -96,7 +96,7 @@ Fei
    be eliminated...'"<Close><End of Block>
 <TextBlock 14 w:52 h:4>
 Citan
-"Yes. That is why Merkava
+"Yes. That is why Merkabah
 is being used to begin the
 destruction.<New>
 But...Deus is not
@@ -184,13 +184,13 @@ Bart
 together a massive force...<New>
 ...we still have the
 problem with the main
-armament of the Merkava.<New>
+armament of the Merkabah.<New>
 We need to know how to take
 that out. As long as we
 don't do that..."<Close><End of Block>
 <TextBlock 21 w:54 h:4>
 Citan
-"Merkava's ultra-long-range
+"Merkabah's ultra-long-range
 cannon has the ability to
 vaporize any substance.<New>
 On top of that, they have a
@@ -200,7 +200,7 @@ all attacks."<Close><End of Block>
 <TextBlock 22 w:54 h:4>
 Zephyr
 "We've fought against the
-Merkava many times to try
+Merkabah many times to try
 to stop its onslaught.<New>
 However, we cannot even
 get close. Hence we have
@@ -211,7 +211,7 @@ Fei
 No matter how much we
 want to save Elly...<New>
 ...if we can't get
-inside the Merkava,
+inside the Merkabah,
 it's meaningless."<Close><End of Block>
 <TextBlock 24 w:54 h:4>
 Sigurd
@@ -270,7 +270,7 @@ Fei
 "Alright, even if we can
 deal with the angels...<New>
 ...just how are we gonna
-deal with that Merkava?
+deal with that Merkabah?
 We can't even get close
 to the thing..."<Close><End of Block>
 <TextBlock 31 w:46 h:4>
@@ -282,7 +282,7 @@ There is a way."<Close><End of Block>
 Citan
 "Look over here."<Close><End of Block>
 <TextBlock 33 w:56 h:7>
-Merkava's main gun requires
+Merkabah's main gun requires
 a 1.2 second interval to
 reload because of its
 tremendous output.<New>
@@ -322,7 +322,7 @@ annoying cannon up, right?"<Close><End of Block>
 Fei
 "...You want to
 go head on into
-Merkava!?"<Close><End of Block>
+Merkabah!?"<Close><End of Block>
 <TextBlock 38 w:52 h:3>
 Billy
 "Now you're being reckless
@@ -337,7 +337,7 @@ equipped with barriers.
 That's what we'll use.<New>
 Although only for a short
 time, we can withstand a
-direct hit from Merkava's
+direct hit from Merkabah's
 main cannon.<New>
 Then we can close in and
 watch for that part of the
@@ -381,7 +381,7 @@ Bart
 The Yggdrasil IV or
 Excaliber's barrier can't
 sufficiently defend against
-Merkava's attack.<New>
+Merkabah's attack.<New>
 At least with one
 generator that is..."<Close><End of Block>
 <TextBlock 46 w:26 h:2>
@@ -390,12 +390,12 @@ Billy
 <TextBlock 47 w:54 h:4>
 Bart
 "Meaning, we can defend
-against the Merkava with
+against the Merkabah with
 twice the amount of time...<New>
 ...40 seconds, if we couple
 the 2 generators together.
 This way, we can make it
-into the heart of Merkava."<Close><End of Block>
+into the heart of Merkabah."<Close><End of Block>
 <TextBlock 48 w:42 h:3>
 Maison
 "Then, what about the
@@ -445,12 +445,12 @@ shift the Excalibur into
 conventional flight.<Close><End of Block>
 <TextBlock 54 w:50 h:4>
 Using this method, we can
-get right in Merkava's
+get right in Merkabah's
 face. After it fires,
 it'll be defenseless.<New>
 During this time, we'll
 block the muzzle of
-Merkava's cannon with
+Merkabah's cannon with
 Excalibur's bow ram.<New>
 Upon which, we should
 have 0.67 seconds...<Close><End of Block>
@@ -459,7 +459,7 @@ With the cannon fire of the
 Excalibur, we'll destroy the
 Yggdrasil IV's slave
 generator and incapacitate
-the Merkava along the way,
+the Merkabah along the way,
 and then...we breakthrough!<Close><End of Block>
 <TextBlock 56 w:50 h:4>
 Bart
@@ -467,7 +467,7 @@ Bart
 is all about.<New>
 The combination of the
 barriers of both ships...
-Storming the Merkava...<New>
+Storming the Merkabah...<New>
 The timing of the cannon
 fire of the Excalibur...
 These are all going to
@@ -520,7 +520,7 @@ defenses?<New>
 We won't stand a chance
 if we get engaged by the
 -Seraph- angels on our
-way to Merkava."<Close><End of Block>
+way to Merkabah."<Close><End of Block>
 <TextBlock 62 w:50 h:3>
 Fei
 "We'll hold them off.

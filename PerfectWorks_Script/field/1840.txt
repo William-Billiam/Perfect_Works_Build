@@ -514,7 +514,7 @@ calling out to god.<New>
 "<Delay 0>Once<Delay 0> humans<Delay 0> have<Delay 0> filled<Delay 0> the<Delay 0>
   earth,<Delay 0> god<Delay 0> will<Delay 0> awaken<Delay 0> from<Delay 0>
    his<Delay 0> long<Delay 0> sleep<Delay 5>...<Delay 5>
- <Delay 0>And<Delay 0> the<Delay 0> awakening<Delay 0> of<Delay 0> Mahanon,<Delay 5>
+ <Delay 0>And<Delay 0> the<Delay 0> awakening<Delay 0> of<Delay 0> Machanon,<Delay 5>
   the<Delay 0> paradise<Delay 0> in<Delay 0> the<Delay 0> sky,<Delay 5>
    will<Delay 0> soon<Delay 0> follow<Delay 5>..."<Delay 45>
  
@@ -527,7 +527,7 @@ This is what they meant when
 they said "<Delay 0>once<Delay 0> humans<Delay 0> have<Delay 0>
 filled<Delay 0> the<Delay 0> earth"<Delay 5>...<Delay 30>
  
-Eventually,<Delay 5> 'Mahanon',<Delay 5>
+Eventually,<Delay 5> 'Machanon',<Delay 5>
 the resting place of god,<Delay 5>
 woke from its long slumber
 and began to rise<Delay 5>...<Delay 5>
@@ -565,7 +565,7 @@ the ministry.
  
 We decided to assemble
 all the forces we could
-and head toward Mahanon.<New>
+and head toward Machanon.<New>
 It was a perilous battle.
 There was no guarantee
 that we would make it
@@ -744,6 +744,6 @@ Monolog Debug Map 1<Close><End of Block>
     Elly's First Dream
     Spreading Nanomachs
     The Howling
-    Mahanon Arises
+    Machanon Arises
     Elly's Decision
     End Monologs<Close><Close><End of Block>
