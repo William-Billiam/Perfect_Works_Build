@@ -8,7 +8,7 @@ This way!"<Close><End of Block>
 Elly
 "Whew..."<Close><End of Block>
 <TextBlock 4 w:28 h:4>
-Renk
+Rank
 "What's wrong?
 Something 
 bugging you?"<Close><End of Block>
@@ -44,16 +44,16 @@ reason. I can't go along
 with this just because
 it's an order."<Close><End of Block>
 <TextBlock 8 w:16 h:2>
-Renk
+Rank
 "Hmm..."<Close><End of Block>
 <TextBlock 9 w:14 h:2>
 Elly
 "What?"<Close><End of Block>
 <TextBlock 10 w:24 h:2>
-Renk
+Rank
 "Nothing..."<Close><End of Block>
 <TextBlock 11 w:54 h:4>
-Renk
+Rank
 "Even though we are called
 Solarians, we are 3rd Class
 Citizens or 'Worker Bees'.<New>
@@ -74,7 +74,7 @@ Elly
 have nothing to do
 with it."<Close><End of Block>
 <TextBlock 13 w:48 h:4>
-Renk
+Rank
 "Well, if you ask me,
 a 1st Class citizen
 thinking like this is...<New>
@@ -110,7 +110,7 @@ Elly
 "...Can't be helped,
 I guess..."<Close><End of Block>
 <TextBlock 20 w:44 h:4>
-Renk
+Rank
 "Well, either is fine
 for us. Just do what
 you're told.<New>

@@ -21,7 +21,7 @@ Stratski
 -Lambs- sure live in a
 nice place..."<Close><End of Block>
 <TextBlock 6 w:50 h:3>
-Renk
+Rank
 "Look at that...!<New>
 They built this place 
 far better than the 
@@ -67,7 +67,7 @@ Stratski
 Even if we only get those,
 it was worth sneaking in."<Close><End of Block>
 <TextBlock 16 w:38 h:4>
-Renk
+Rank
 "Alright!<Delay 10>
 Schpariel is now in
 place at the back!<New>
@@ -78,7 +78,7 @@ gets in our way!"<Close><End of Block>
 Broyer
 "Anytime is fine!"<Close><End of Block>
 <TextBlock 18 w:12 h:2>
-Renk
+Rank
 "GO!!"<Opcode 2 40><Close><End of Block>
 <TextBlock 19 w:0 h:1>
 <Close><End of Block>

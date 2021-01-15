@@ -34,9 +34,9 @@ Elly
 Wait!"<Close><End of Block>
 <TextBlock 9 w:16 h:2>
 Elly
-"Renk!?"<Close><End of Block>
+"Rank!?"<Close><End of Block>
 <TextBlock 10 w:52 h:4>
-Renk
+Rank
 "From our last incident, I
 can tell that your friends
 with that Gear's pilot.<New>
@@ -54,7 +54,7 @@ beaten!"<Close><End of Block>
 Elly
 "..."<Close><End of Block>
 <TextBlock 12 w:44 h:4>
-Renk
+Rank
 "Sorry, I'm gonna have
 to kick his butt. 
 Any objections?"<Close><End of Block>

@@ -72,7 +72,7 @@ reason.<Delay 10> Even Cain
 would not object.<Close><End of Block>
 <TextBlock 15 w:40 h:4>
 But we can't use the
-'Gaetia Key'.<Delay 10>
+'Key of Goetia'.<Delay 10>
 Not until the proper
 time comes.<Close><End of Block>
 <TextBlock 16 w:44 h:3>
@@ -949,7 +949,7 @@ those who will awaken god?<Close><End of Block>
 <TextBlock 208 w:34 h:3>
 The time has come
 to activate<Delay 10> the
-'Gaetia Key'<Delay 5>...<Close><End of Block>
+'Key of Goetia'<Delay 5>...<Close><End of Block>
 <TextBlock 209 w:22 h:1>
 Wha, what!?<Close><End of Block>
 <TextBlock 210 w:12 h:1>

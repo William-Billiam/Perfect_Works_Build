@@ -276,7 +276,7 @@ stood a gold Omnigear<Delay 5>...<Delay 30>
   was at stake<Delay 5>...<Close><End of Block>
 <TextBlock 23 w:58 h:12>
 The Nisan and Shevat militia,<Delay 5>
-even Renk and friends from
+even Rank and friends from
 Solaris who now served to
 protect Nisan, could not
 thwart the assault.<New>
@@ -321,7 +321,7 @@ Elly
 Margie
 "Elly!"<Close><End of Block>
 <TextBlock 30 w:18 h:2>
-Renk
+Rank
 "Boss<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 31 w:28 h:2>
 Elly
@@ -346,7 +346,7 @@ Why can't I move!?"<Close><End of Block>
 Margie
 "Elly!"<Close><End of Block>
 <TextBlock 36 w:32 h:2>
-Renk
+Rank
 "Are you okay!?"<Close><End of Block>
 <TextBlock 37 w:42 h:3>
 Ramsus
@@ -496,7 +496,7 @@ assassinating the Emperor.<Delay 45>
 Now,<Delay 5> with nothing else
 holding them back,<Delay 5> the
 Ministry had put into
-use the<Delay 5> 'Gaetia Key'<Delay 5>...<Delay 30>
+use the<Delay 5> 'Key of Goetia'<Delay 5>...<Delay 30>
  
 The effect of which was to
 alter those people who had
@@ -600,7 +600,7 @@ this machine was surmounted
 by my desire to rescue the
 people dear to me.<Close><End of Block>
 <TextBlock 61 w:44 h:3>
-Renk
+Rank
 "Are you serious about
 going it alone!?"<Close><End of Block>
 <TextBlock 62 w:38 h:3>
@@ -630,7 +630,7 @@ sure...<New>
 Karellen isn't concerned
 with anyone else but me."<Close><End of Block>
 <TextBlock 68 w:48 h:4>
-Renk
+Rank
 "So what makes you think
 he's going to hold his
 part of the bargain?<New>
@@ -655,7 +655,7 @@ the others...<New>
 Because they accepted me
 as their friend."<Close><End of Block>
 <TextBlock 73 w:54 h:3>
-Renk
+Rank
 "If you go away...
 what about us...?<New>
 What about all the people
@@ -730,7 +730,7 @@ So I want you all to do
 whatever it is you can do
 for our friends here."<Close><End of Block>
 <TextBlock 84 w:10 h:2>
-Renk
+Rank
 "<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 85 w:38 h:3>
 Elly
