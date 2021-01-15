@@ -1216,7 +1216,7 @@ headquarters.
 Let's go..."<Close><End of Block>
 <TextBlock 197 w:52 h:4>
 Citan
-"'Anonelbe'...<New>
+"'Ahnenerbe'...<New>
 The long awaited man of
 god, who will take the
 people born in this world

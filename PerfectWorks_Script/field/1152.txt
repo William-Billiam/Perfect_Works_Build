@@ -276,7 +276,7 @@ a poison to us.
 It could never
 be a remedy.<Close><End of Block>
 <TextBlock 60 w:46 h:3>
-'Anonelbe'<Delay 5>...<Delay 5>
+'Ahnenerbe'<Delay 5>...<Delay 5>
 You don't still believe
 that, do you?<Close><End of Block>
 <TextBlock 61 w:34 h:3>
