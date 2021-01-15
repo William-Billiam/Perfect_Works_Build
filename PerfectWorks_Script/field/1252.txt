@@ -62,7 +62,7 @@ fighting on land."<Close><End of Block>
 <TextBlock 12 w:36 h:3>
 Dominia
 "Of course. Sorry,
-Kelvena."<Close><End of Block>
+Cherubina."<Close><End of Block>
 <TextBlock 13 w:52 h:4>
 Bart
 "Dammit! I can barely

@@ -71,7 +71,7 @@ Myyah
 "Commander, you can't go 
 out there like that!"<Close><End of Block>
 <TextBlock 19 w:40 h:4>
-Kelvena
+Cherubina
 "Commander, request
 permission to handle
 the situation?"<Close><End of Block>
@@ -83,7 +83,7 @@ Dominia
 "We'll do our best to
 meet your expectations."<Close><End of Block>
 <TextBlock 22 w:40 h:4>
-Kelvena
+Cherubina
 "Commander please,
 you must get medical
 attention<Delay 5>...<Delay 5>..."<Close><End of Block>
@@ -92,5 +92,5 @@ Dominia
 "To make our ideals
 a reality."<Close><End of Block>
 <TextBlock 24 w:48 h:2>
-Kelvena
+Cherubina
 "Well then, we are off."<Close><Close><End of Block>

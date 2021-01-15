@@ -42,9 +42,9 @@ defend herself after you
 took it upon yourself to
 attack without permission.<New>
 Above all, you were meant
-to be under Kelvena's
+to be under Cherubina's
 command. Were you obeying
-Kelvena's orders?"<Close><End of Block>
+Cherubina's orders?"<Close><End of Block>
 <TextBlock 8 w:14 h:2>
 Dominia
 "..."<Close><End of Block>

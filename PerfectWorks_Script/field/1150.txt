@@ -94,7 +94,7 @@ Aquvy.<Close><End of Block>
 Ramsus
 "Fine."<Close><End of Block>
 <TextBlock 22 w:44 h:4>
-Message from Kelvena.<New>
+Message from Cherubina.<New>
 Dominia is withdrawing
 in Haishao. She will
 pursue the aerial
@@ -174,11 +174,11 @@ That bastard!<Delay 30>
 I'll hunt him
 out myself...!"<Close><End of Block>
 <TextBlock 36 w:36 h:3>
-Kelvena
+Cherubina
 "Please calm down,
 Commander!"<Close><End of Block>
 <TextBlock 37 w:42 h:3>
-Tolone
+Throne
 "We'll take care of
 him and his friends!"<Close><End of Block>
 <TextBlock 38 w:50 h:4>
