@@ -673,7 +673,7 @@ feet without any support
 from me<Delay 5>...<Delay 30> This is also
 true of you all,<Delay 5> right?"<Close><End of Block>
 <TextBlock 75 w:40 h:3>
-Broyer
+Breuer
 "But why do you do
 so much for him<Delay 5>...?"<Close><End of Block>
 <TextBlock 76 w:50 h:3>

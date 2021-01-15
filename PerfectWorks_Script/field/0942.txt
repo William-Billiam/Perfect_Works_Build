@@ -66,7 +66,7 @@ Rank
 "What? This little girl's
 our commanding officer?"<Close><End of Block>
 <TextBlock 17 w:34 h:4>
-Broyer
+Breuer
 "She's said to be
 an elite from out
 of Jugend."<Close><End of Block>
@@ -103,7 +103,7 @@ But just because you're
 beautiful doesn't mean
 you have to be cocky."<Close><End of Block>
 <TextBlock 24 w:32 h:3>
-Broyer
+Breuer
 "Ha! This jerk's
 just jealous."<Close><End of Block>
 <TextBlock 25 w:50 h:3>

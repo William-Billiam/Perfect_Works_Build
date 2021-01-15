@@ -1,5 +1,5 @@
 <TextBlock 1 w:52 h:4>
-Nikolai
+Nikola
 "I see...<Delay 20> You're a giant
 native lifeform of this
 planet...<New>
@@ -110,7 +110,7 @@ Maria
 Maria
 "<Seibzehn>!!"<Opcode 2 90><Close><End of Block>
 <TextBlock 16 w:34 h:4>
-Nikolai
+Nikola
 "What's with this
 astronomically
 unintellectual...<New>

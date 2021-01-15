@@ -224,7 +224,7 @@ Maria
 People of Shevat!<Delay 20>
 Hear me!<Close><End of Block>
 <TextBlock 49 w:54 h:4>
-Nikolai
+Nikola
 "I'd heard some interesting
 rats had run into there...<New>
 Just in time to test
@@ -236,21 +236,21 @@ come on out.<Delay 20>
 Come on my cute little
 guinea pigs."<Close><End of Block>
 <TextBlock 50 w:46 h:3>
-Nikolai
+Nikola
 "So you can be test
 subjects for this guy."<Close><End of Block>
 <TextBlock 51 w:50 h:4>
-Nikolai
+Nikola
 "Achtzehn's new weapon...<Delay 20>
 the anti-Gear Psycho
 Jammer!"<Close><End of Block>
 <TextBlock 52 w:52 h:4>
-Nikolai
+Nikola
 "That much time is enough
 to erase you from the face
 of the earth."<Close><End of Block>
 <TextBlock 53 w:50 h:3>
-Nikolai
+Nikola
 "Humans are an imperfect,
 foolish life form...<New>
 I will show the greatness
@@ -262,7 +262,7 @@ strength of steel."<Close><End of Block>
 Zephyr
 "Calm down, Maria!!<New>
 It doesn't mean that
-Dr. Nikolai is inside!"<Close><End of Block>
+Dr. Nikola is inside!"<Close><End of Block>
 <TextBlock 55 w:46 h:4>
 Zephyr
 "Maria!!<Delay 20>
@@ -299,7 +299,7 @@ as usual.<New>
 And Maria...
 You did very well.<Delay 20>
 It is very regretful
-about Dr. Nikolai...<New>
+about Dr. Nikola...<New>
 Solaris put the doctor
 through all of that.<New>
 We must defeat them as

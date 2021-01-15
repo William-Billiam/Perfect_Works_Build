@@ -337,7 +337,7 @@ Sigurd
 "..."<Close><End of Block>
 <TextBlock 52 w:52 h:4>
 Jessie
-"The keywords are Nikolai,<Delay 10>
+"The keywords are Nikola,<Delay 10>
 Maria, <Delay 10>
 a huge Gear<Delay 10>...<Delay 5> eh!?"<Close><End of Block>
 <TextBlock 53 w:52 h:4>
@@ -859,7 +859,7 @@ Fei
 Jessie
 "Maria, eh...?<Delay 10> Hmm...<Delay 10>
 If I remember right, her
-father's name was Nikolai?"<Close><End of Block>
+father's name was Nikola?"<Close><End of Block>
 <TextBlock 137 w:52 h:4>
 Shevat Agent
 "I don't know that much...<Delay 10>

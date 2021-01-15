@@ -21,7 +21,7 @@ Elly
 Don't tell me
 it's Fei!?"<Close><End of Block>
 <TextBlock 7 w:42 h:3>
-Broyer
+Breuer
 "Hey, is that him?
 The guy from before?"<Close><End of Block>
 <TextBlock 8 w:40 h:3>
@@ -29,7 +29,7 @@ Rank
 "Yep.
 That's him alright."<Close><End of Block>
 <TextBlock 9 w:54 h:3>
-Broyer
+Breuer
 "Good.
 It's time for a rematch.<New>
 Don't fall behind, sister."<Close><End of Block>
@@ -109,7 +109,7 @@ Helmholtz
 <TextBlock 28 w:8 h:1>
 Rank<Close><End of Block>
 <TextBlock 29 w:12 h:1>
-Broyer<Close><End of Block>
+Breuer<Close><End of Block>
 <TextBlock 30 w:16 h:1>
 Stratski<Close><End of Block>
 <TextBlock 31 w:14 h:2>

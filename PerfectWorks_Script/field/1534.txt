@@ -1,6 +1,6 @@
 <TextBlock 1 w:56 h:4>
 Maria's father, Doctor
-Nikolai, was captured by
+Nikola, was captured by
 Solaris and nothing has
 been heard from him since.<New>
 In any case, I'm sure he's

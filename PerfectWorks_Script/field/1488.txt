@@ -88,7 +88,7 @@ intruder...!?"<Close><End of Block>
 <TextBlock 19 w:44 h:4>
 <Opcode 1 2>Maria
 "Undoubtedly, I am the
-daughter of Nikolai,
+daughter of Nikola,
 Maria Balthasar!<New>
 What about it...?"<Close><End of Block>
 <TextBlock 20 w:48 h:4>
@@ -149,7 +149,7 @@ Dominia
 "That child...
 Hey, you...<Delay 20><New>
 Are you the daughter
-of Nikolai...?"<Close><End of Block>
+of Nikola...?"<Close><End of Block>
 <TextBlock 33 w:54 h:4>
 Dominia
 "I see...<New>
@@ -180,11 +180,11 @@ and human error when
 interfacing with a
 machine.<New>
 That's when your father,
-Nikolai was targeted.<Delay 20>
+Nikola was targeted.<Delay 20>
 He was a genius in the
 field of cranial nerve
 mechanisms.<New>
-They made Nikolai search
+They made Nikola search
 for a way for humans to
 go beyond humans...<Delay 20> By
 merging humans and
@@ -197,7 +197,7 @@ living human brain to a
 Gear directly.<New>
 It would've stayed as a
 mere fantasy<Delay 10> without
-Nikolai.<Delay 20> But that genius
+Nikola.<Delay 20> But that genius
 made the fantasy come
 true...<Close><End of Block>
 <TextBlock 36 w:52 h:7>
@@ -403,7 +403,7 @@ How could Solaris do such
 a terrible thing...!!<Delay 20>
 Damn it!<New>
 It's unbearable...to see
-the genius, Dr. Nikolai
+the genius, Dr. Nikola
 ending his life like
 that...<Close><End of Block>
 <TextBlock 61 w:52 h:4>

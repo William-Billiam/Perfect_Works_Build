@@ -5,7 +5,7 @@ Helmholtz
 Stratski
 "OK over here!"<Close><End of Block>
 <TextBlock 3 w:30 h:4>
-Broyer
+Breuer
 "Confirmed!<Delay 10>
 It's their
 base, alright."<Close><End of Block>
@@ -75,7 +75,7 @@ Get ready to take
 out anything that
 gets in our way!"<Close><End of Block>
 <TextBlock 17 w:36 h:2>
-Broyer
+Breuer
 "Anytime is fine!"<Close><End of Block>
 <TextBlock 18 w:12 h:2>
 Rank
