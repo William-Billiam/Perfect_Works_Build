@@ -581,14 +581,14 @@ fear, I decided ascend to
 Shevat which was stationed
 in the skies above Nisan.<New>
 Awaiting me there was a
-transmission from Krelian...<Delay 45>
+transmission from Karellen...<Delay 45>
  
 He told me that if I
 wanted to save Fei and
 the others, I would have
 to come to Golgoda.<Delay 30>
  
-Krelian wanted me.<Close><End of Block>
+Karellen wanted me.<Close><End of Block>
 <TextBlock 60 w:58 h:9>
 In order to save Fei and my
 other friends, I departed
@@ -605,7 +605,7 @@ Renk
 going it alone!?"<Close><End of Block>
 <TextBlock 62 w:38 h:3>
 Elly
-"Krelian told me to
+"Karellen told me to
 come by myself."<Close><End of Block>
 <TextBlock 63 w:52 h:3>
 Elly
@@ -627,7 +627,7 @@ Elly
 "If I do not go, Fei and
 them will be executed for
 sure...<New>
-Krelian isn't concerned
+Karellen isn't concerned
 with anyone else but me."<Close><End of Block>
 <TextBlock 68 w:48 h:4>
 Renk

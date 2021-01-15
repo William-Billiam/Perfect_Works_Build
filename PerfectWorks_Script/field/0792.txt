@@ -72,7 +72,7 @@ Bart
 I'm alright!"<Close><End of Block>
 <TextBlock 11 w:58 h:4>
   Sigurd
-  "Etrenank, the captial
+  "Etemenanki, the captial
   of the Solaris empire is
   located in the skies above.<New>
   Solaris is separated from

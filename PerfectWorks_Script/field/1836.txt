@@ -60,7 +60,7 @@ Fei
 as that guy in Solaris...?<New>
 I mean...
 Is that the same thing
-as Krelian is studying?"<Close><End of Block>
+as Karellen is studying?"<Close><End of Block>
 <TextBlock 13 w:40 h:2>
 Taura
 "Yes, that's right."<Close><End of Block>

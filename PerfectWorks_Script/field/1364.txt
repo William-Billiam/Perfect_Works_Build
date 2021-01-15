@@ -241,7 +241,7 @@ saved'?"<Close><End of Block>
 Stone
 "Are you saying that you
 can save all of humankind?<New>
-If Krelian uses the
+If Karellen uses the
 nanomachine colony, at
 least we can save some
 chosen people.<New>
@@ -256,7 +256,7 @@ humankind?"<Close><End of Block>
 Stone
 "My job now is to bring
 this nanomachine colony
-back to Krelian.<New>
+back to Karellen.<New>
 You see, unlike the
 'Ethos', our aim is not
 the ancient weapons that
@@ -290,7 +290,7 @@ I'm hopeless
 with machines."<Close><End of Block>
 <TextBlock 46 w:50 h:3>
 Stone
-"Actually, Krelian hasn't
+"Actually, Karellen hasn't
 told me very much.<New>
 Nothing apart from the
 'Salvation of Humankind'.<New>
@@ -323,7 +323,7 @@ Tolone
 But we can't let you go
 just yet...<New>
 We really don't care much
-for Krelian, but if we do
+for Karellen, but if we do
 a crappy job it'll make
 Ramsus look bad.<New>
 But, thanks to you fools

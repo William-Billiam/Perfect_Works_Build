@@ -120,7 +120,7 @@ Stone
 Hmph, there's power,
 in here!<New>
 I received this body
-from Krelian!"<Close><End of Block>
+from Karellen!"<Close><End of Block>
 <TextBlock 25 w:36 h:3>
 Stone
 "What do you mean 
@@ -157,7 +157,7 @@ have been purging are
 really all people...<New>
 They were chosen by the
 'Ethos' and converted
-by Krelian!<New>
+by Karellen!<New>
 You've been slaughtering
 people! Ha ha ha...
 A wretched son for a

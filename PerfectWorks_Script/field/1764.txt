@@ -449,9 +449,9 @@ our resurrection is near...<Delay 30>
 Next is god's resurrection"<Close><End of Block>
 <TextBlock 82 w:22 h:2>
 Fei
-"Krelian!?"<Close><End of Block>
+"Karellen!?"<Close><End of Block>
 <TextBlock 83 w:48 h:3>
-Krelian
+Karellen
 "This one only waits for
 the awakening..."<Close><End of Block>
 <TextBlock 84 w:18 h:2>

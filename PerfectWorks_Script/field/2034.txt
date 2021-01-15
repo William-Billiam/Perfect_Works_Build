@@ -20,7 +20,7 @@ Bart
 she's been<Delay 5>...<Delay 5>
 brainwashed!?"<Close><End of Block>
 <TextBlock 6 w:42 h:3>
-Krelian
+Karellen
 "It has nothing to do
 with brainwashing..."<Close><End of Block>
 <TextBlock 7 w:30 h:3>
@@ -28,7 +28,7 @@ Citan
 "Unify with
 the mother...?"<Close><End of Block>
 <TextBlock 8 w:40 h:3>
-Krelian
+Karellen
 "That girl<Delay 5>...<Delay 5>Elehayym,
 is our 'mother'."<Close><End of Block>
 <TextBlock 9 w:36 h:4>
@@ -249,7 +249,7 @@ existing through multiple
 generations...<New>
 In actuality, there wasn't
 enough parts for Deus...<Delay 20>
-But, Krelian compensated
+But, Karellen compensated
 for what was lacking.<New>
 The reduction in the number
 of parts, was due to humans
@@ -258,7 +258,7 @@ generations...<New>
 But that deficiency in the
 human factor, was made up
 for by the nanomachines
-created by Krelian.<New>
+created by Karellen.<New>
 Not only that, but his
 nanomachines added
 additional functions.<New>
@@ -321,7 +321,7 @@ If Myyah is a part for
 Deus, why did it not
 happen earlier...?"<Close><End of Block>
 <TextBlock 34 w:44 h:4>
-Krelian
+Karellen
 "It's still not enough
 for her just to have
 awakened.<New>
@@ -333,7 +333,7 @@ Citan
 "The 'true Myyah'...?"<Close><End of Block>
 <TextBlock 36 w:50 h:4>
 Elly
-"Let's go, Krelian.<New>
+"Let's go, Karellen.<New>
 All that is left to do is
 to vanquish this planet's
 civilization and return
@@ -362,7 +362,7 @@ eliminated.<Delay 20>
 I am just programmed to
 act in this way..."<Close><End of Block>
 <TextBlock 39 w:38 h:3>
-Krelian
+Karellen
 "Come...<New>
 It is time for
 the awakening of
@@ -383,7 +383,7 @@ Citan
 Now you hang
 in there!"<Close><End of Block>
 <TextBlock 43 w:44 h:4>
-Krelian
+Karellen
 "The majority of my
 body is comprised of
 a nanomahine colony.<New>

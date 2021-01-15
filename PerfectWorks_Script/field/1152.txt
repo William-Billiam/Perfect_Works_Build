@@ -183,9 +183,9 @@ It's near the
 Thames.<Close><End of Block>
 <TextBlock 38 w:52 h:2>
 If it is Aquvy,
-Krelian's headed that way.<Close><End of Block>
+Karellen's headed that way.<Close><End of Block>
 <TextBlock 39 w:18 h:3>
-Krelian?<Delay 10>
+Karellen?<Delay 10>
 Himself?<Delay 10>
 What for?<Close><End of Block>
 <TextBlock 40 w:52 h:4>
@@ -345,7 +345,7 @@ the need for a
 Didn't we just take care
 of that?<Close><End of Block>
 <TextBlock 77 w:50 h:4>
-Moreover, Krelian is<Delay 5>...<New>
+Moreover, Karellen is<Delay 5>...<New>
 rather exhorbitant. It's
 only a molecular machine.
 Why is he placing so much
@@ -362,7 +362,7 @@ You're back<Delay 5>...<Delay 5>?
 Well, find
 anything?<Close><End of Block>
 <TextBlock 81 w:48 h:4>
-Krelian
+Karellen
 "Yes.<Delay 10>
 I have obtained<Delay 5> a colony
 of nanomachines."<Close><End of Block>
@@ -383,7 +383,7 @@ of this new civilization.<Close><End of Block>
 They exist because
 of their 'mother'.<Close><End of Block>
 <TextBlock 86 w:52 h:3>
-Krelian
+Karellen
 "Hmm.<New>
 You've betrayed your
 'mother', your 'creator',<New>
@@ -397,7 +397,7 @@ When we were trapped in
 that cursed flesh<Delay 5>...<Delay 5>
 But now, it is different.<Close><End of Block>
 <TextBlock 88 w:52 h:3>
-Krelian
+Karellen
 "I'll take no orders from
 you.<New>
 You have lost that flesh
@@ -585,17 +585,17 @@ past<Delay 5>...<Close><End of Block>
 We can't allow the 
 lambs to go free yet.<Close><End of Block>
 <TextBlock 134 w:40 h:3>
-Krelian
+Karellen
 "Who cares about the
 gate anyways."<Close><End of Block>
 <TextBlock 135 w:20 h:1>
-Krelian<Delay 5>...<Close><End of Block>
+Karellen<Delay 5>...<Close><End of Block>
 <TextBlock 136 w:40 h:3>
 This can't be.<Delay 5>
 The panic has spread
-to Etrenank.<Close><End of Block>
+to Etemenanki.<Close><End of Block>
 <TextBlock 137 w:40 h:4>
-Krelian
+Karellen
 "Those fools we call
 citizens are easily
 manipulated by<New>
@@ -609,7 +609,7 @@ His body's already at
 the limit, he can't hold
 out much more<Delay 5>...<Close><End of Block>
 <TextBlock 140 w:50 h:4>
-Krelian
+Karellen
 "As usual<Delay 5> a 
 clone may be used.<New>
 Those fools won't know
@@ -625,12 +625,12 @@ that memory cube."<Close><End of Block>
 <TextBlock 141 w:34 h:1>
 And what is that?<Close><End of Block>
 <TextBlock 142 w:30 h:2>
-Krelian
+Karellen
 "The 'mother'."<Close><End of Block>
 <TextBlock 143 w:26 h:1>
 The 'mother'?<Close><End of Block>
 <TextBlock 144 w:46 h:3>
-Krelian
+Karellen
 "Indeed.<New>
 It is probable that the
 'mother'<Delay 5> exists
@@ -643,7 +643,7 @@ Why didn't we
 notice that
 sooner<Delay 5>...<Delay 5>?<Close><End of Block>
 <TextBlock 146 w:40 h:4>
-Krelian
+Karellen
 "The sign of the
 'mother'<Delay 5>...<New>
 Her persona, only
@@ -658,7 +658,7 @@ the 'Antitype'."<Close><End of Block>
 The 'Antitype'<Delay 5>...<Delay 5>
 That woman from Nisan<Delay 5>...<Delay 5>?<Close><End of Block>
 <TextBlock 148 w:48 h:4>
-Krelian
+Karellen
 "Here<Delay 5>...<Delay 5>
 I would like to use that
 nanotechnology product,<Delay 5><New>
@@ -668,7 +668,7 @@ What you retrieved
 from the Thames?<Delay 5>
 Why?<Close><End of Block>
 <TextBlock 150 w:54 h:4>
-Krelian
+Karellen
 "To be sure.<Delay 15>
 As 'mother'<Delay 5> says,
 that nanomachine colony<Delay 5>...<New>
@@ -680,7 +680,7 @@ was a creation between the
 <Delay 5>The 'mother's'
 memory<Delay 5>...<Close><End of Block>
 <TextBlock 152 w:54 h:4>
-Krelian
+Karellen
 "Yes, that is it.<Delay 10>
 We can probably attain
 some kind of reaction.<New>
@@ -708,7 +708,7 @@ human form.<Close><End of Block>
 <TextBlock 156 w:46 h:3>
 Regardless<Delay 5>...<Delay 5>with
 just one machine, he
-annihilated Etrenank<Delay 5>...<New>
+annihilated Etemenanki<Delay 5>...<New>
 His powers must not be
 underestimated<Delay 5>...<Close><End of Block>
 <TextBlock 157 w:44 h:3>
@@ -716,14 +716,14 @@ We're already short of
 time.<Delay 10> The key,
 use the key<Delay 5>...<Close><End of Block>
 <TextBlock 158 w:46 h:3>
-Krelian
+Karellen
 "Even you are beginning
 to feel the pressure?"<Close><End of Block>
 <TextBlock 159 w:40 h:2>
-Krelian<Delay 5>...<Delay 5> What
+Karellen<Delay 5>...<Delay 5> What
 is Cain's situation?<Close><End of Block>
 <TextBlock 160 w:50 h:4>
-Krelian
+Karellen
 "The usual life extension
 treatment. He'll hold out
 for<Delay 5>...<Delay 5> a little<New>
@@ -732,7 +732,7 @@ longer<Delay 5>..."<Close><End of Block>
 Does that mean we may
 not make it in time<Delay 5>...?<Close><End of Block>
 <TextBlock 162 w:54 h:3>
-Krelian
+Karellen
 "I wouldn't know<Delay 5>...<New>
 You spoke of using the key.<Delay 15>
 Can you be sure he
@@ -758,7 +758,7 @@ are bound to make the same
 mistake. But we can't fail
 a second time.<Close><End of Block>
 <TextBlock 168 w:48 h:4>
-Krelian
+Karellen
 "Well don't worry.<Delay 5> I've
 sent Ramsus to deal with
 him."<Close><End of Block>
@@ -767,17 +767,17 @@ What can a failure
 like him do?<Close><End of Block>
 <TextBlock 170 w:46 h:4>
 He couldn't even defend
-Etrenank. What can you
+Etemenanki. What can you
 expect from 'trash'
 like him.<Close><End of Block>
 <TextBlock 171 w:38 h:3>
-Krelian
+Karellen
 "Even if he has the
 'Anima Relic'?"<Close><End of Block>
 <TextBlock 172 w:30 h:1>
 The 'Relic'<Delay 5>...<Delay 5>?<Close><End of Block>
 <TextBlock 173 w:46 h:4>
-Krelian
+Karellen
 "The relic we recovered
 before has been aligned
 with his Gear.<New>
@@ -792,7 +792,7 @@ Although he transmigrated,
 wasn't he once one of you?<Delay 10>
 I don't understand you.<Close><End of Block>
 <TextBlock 175 w:52 h:4>
-Krelian
+Karellen
 "I've thrown away all
 feelings of human emotion.<Delay 10>
 All I need<Delay 5> is 'her'."<Close><End of Block>
@@ -800,13 +800,13 @@ All I need<Delay 5> is 'her'."<Close><End of Block>
 But isn't that
 also an emotion?<Close><End of Block>
 <TextBlock 177 w:30 h:2>
-Krelian
+Karellen
 "<Delay 5>...<Delay 5>Of course."<Close><End of Block>
 <TextBlock 178 w:20 h:2>
 Is that a
 blunder<Delay 5>...<Close><End of Block>
 <TextBlock 179 w:50 h:4>
-Krelian
+Karellen
 "You are irritating...<Delay 25>
 Do you wish to cease your
 existence?"<Close><End of Block>
@@ -817,14 +817,14 @@ it at that.<Close><End of Block>
 What do you mean...
 he's still alive<Delay 5>...!?<Close><End of Block>
 <TextBlock 182 w:14 h:2>
-Krelian
+Karellen
 "Yes."<Close><End of Block>
 <TextBlock 183 w:38 h:3>
 Ridiculous.<Delay 10>
 Didn't Ramsus shoot
 him down?<Close><End of Block>
 <TextBlock 184 w:50 h:4>
-Krelian
+Karellen
 "She was also on the Gear
 that Ramsus shot down.<Delay 10>
 I won't have her die."<Close><End of Block>
@@ -835,7 +835,7 @@ Although she may be the
 'Antitype',<Delay 5> as long as the
 current mother exists<Delay 5>...<Close><End of Block>
 <TextBlock 186 w:44 h:3>
-Krelian
+Karellen
 "As far as I see it,<Delay 5>
 that is not<Delay 5> complete."<Close><End of Block>
 <TextBlock 187 w:52 h:3>
@@ -843,7 +843,7 @@ Quite picky aren't you<Delay 5>...?<Delay 5>
 Didn't you say you threw
 away<Delay 5> all human emotions?<Close><End of Block>
 <TextBlock 188 w:54 h:4>
-Krelian
+Karellen
 "I don't care what you
 think. Anyway<Delay 5>...<New>
 As far as he is concerned,
@@ -851,7 +851,7 @@ I will put Ramsus onto him.<Delay 10>
 Any objections?<Delay 10>
 Where is he presently?"<Close><End of Block>
 <TextBlock 189 w:46 h:3>
-Etrenank is destroyed,
+Etemenanki is destroyed,
 but part of the memory
 cube is still active.<New>
 We should still be able
@@ -862,7 +862,7 @@ He has left the crash
 site and is heading
 towards Ignas.<Close><End of Block>
 <TextBlock 191 w:52 h:4>
-Krelian
+Karellen
 "I see.<Delay 10>
 So he has left the area<Delay 5>...<New>
 (That means<Delay 5>...<Delay 5>
@@ -872,7 +872,7 @@ broken<Delay 5>...)"<Close><End of Block>
 <TextBlock 192 w:44 h:1>
 Did you say something?<Close><End of Block>
 <TextBlock 193 w:46 h:4>
-Krelian
+Karellen
 "It's nothing.<Delay 15>
 Just sit there and wait
 for the good news."<Close><End of Block>
@@ -884,7 +884,7 @@ beginning to resonate.<New>
 The time of the
 resurrection is near.<Close><End of Block>
 <TextBlock 195 w:30 h:4>
-Krelian
+Karellen
 "We can get the
 girl anytime.<New>
 It doesn't have
@@ -1036,7 +1036,7 @@ you do it for us?<Close><End of Block>
 <TextBlock 230 w:52 h:3>
 Myyah
 "Maybe<Delay 5>...<Delay 5>
-Did Krelian say anything?"<Close><End of Block>
+Did Karellen say anything?"<Close><End of Block>
 <TextBlock 231 w:42 h:4>
 Something concerning
 the potential ability
@@ -1104,7 +1104,7 @@ Is this the limit of my
 existence!?<Delay 25>
 My abilities<Delay 5>...<Delay 5>!?"<Close><End of Block>
 <TextBlock 245 w:54 h:4>
-Krelian
+Karellen
 "<Delay 5>...<Delay 5>You're the same as
 Cain.<New>
 An archetype that
@@ -1147,9 +1147,9 @@ ideals too<Delay 5>...<Close><End of Block>
 A fitting end for someone
 who had become dominated
 by needless flesh.<Delay 15>
-Excellent work,<Delay 5> Krelian.<Close><End of Block>
+Excellent work,<Delay 5> Karellen.<Close><End of Block>
 <TextBlock 252 w:14 h:2>
-Krelian
+Karellen
 "<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 253 w:46 h:4>
 Now there is nothing
@@ -1168,7 +1168,7 @@ as their 'Animus'<Delay 5>...<Close><End of Block>
 <TextBlock 255 w:34 h:4>
 Hyuga's Asher,<Delay 5>
 Ramsus' Zebulun,<Delay 5>
-Krelian's Judah,<Delay 5>
+Karellen's Judah,<Delay 5>
 Sophia's Dinah<Delay 5>...<Close><End of Block>
 <TextBlock 256 w:50 h:3>
 Reuben<Delay 5>, Simeon<Delay 5>, Levi<Delay 5>,
@@ -1214,15 +1214,15 @@ to do is change into the
 Animus, and become one with
 the <Delay 5>mother -Persona-<Delay 5>...<Close><End of Block>
 <TextBlock 266 w:46 h:2>
-Krelian
+Karellen
 "<Delay 5>...<Delay 5>That is incorrect."<Close><End of Block>
 <TextBlock 267 w:52 h:3>
 What?
-What do you mean, Krelian?
+What do you mean, Karellen?
 What did you just say?<Close><End of Block>
 <TextBlock 268 w:44 h:3>
 What are you doing!?
-Krelian, have you gone
+Karellen, have you gone
 totally insane!?<Close><End of Block>
 <TextBlock 269 w:42 h:2>
 What are you doing
@@ -1232,7 +1232,7 @@ Do not touch them!<Delay 10>
 We cannot survive
 without them<Delay 5>...!<Close><End of Block>
 <TextBlock 271 w:48 h:4>
-Krelian
+Karellen
 "You were the only
 ones who could have
 activated the key...<New>
@@ -1243,7 +1243,7 @@ you all erased."<Close><End of Block>
 <TextBlock 272 w:26 h:1>
 How dare you!<Close><End of Block>
 <TextBlock 273 w:52 h:4>
-Krelian
+Karellen
 "The only obstacle that
 kept me from my goals was
 Cain.<New>
@@ -1275,7 +1275,7 @@ We<Delay 5>...<Delay 5>can...<Delay 5>
 become<Delay 5>...<Delay 5>god!<Delay 10>
 And<Delay 5>...<Delay 5>you're<Delay 5>...<Close><End of Block>
 <TextBlock 275 w:48 h:4>
-Krelian
+Karellen
 "God?<Delay 15>
 Who said you'd be god?<New>
 What impertinence!<Delay 5>
@@ -1292,7 +1292,7 @@ Ri<Delay 5>...<Delay 5>di<Delay 5>cu<Delay 5>lous<Delay 5>...<Delay 10>
 Going<Delay 5>...<Delay 5> a<Delay 5>...<Delay 5>gainst<Delay 5>
 the<Delay 5>...<Delay 5> Mother<Delay 5>...<Close><End of Block>
 <TextBlock 277 w:48 h:4>
-Krelian
+Karellen
 "I have not gone against
 her.<Delay 20> This is the will of
 the 'other mother'."<Close><End of Block>
@@ -1302,7 +1302,7 @@ can<Delay 5>...<Delay 5>elim<Delay 5>...<Delay 5>inate<Delay 5>...<Delay 5>
 us<Delay 5>...<Delay 5>and<Delay 5>...<Delay 5>still<Delay 5>...<Delay 5>
 ...<Delay 5>revi<Delay 5>...<Delay 5>ve<Delay 5>...<Delay 5>god<Delay 5>...?<Close><End of Block>
 <TextBlock 279 w:54 h:4>
-Krelian
+Karellen
 "It can be done.<New>
 Your genes were scattered
 in order to keep the world
@@ -1333,11 +1333,11 @@ My <Delay 5>-<Delay 5>Project<Delay 5> Noah<Delay 5>-<Delay 5>!"<Close><End of B
 <TextBlock 280 w:28 h:1>
 K<Delay 5>...<Delay 5>re<Delay 5>...<Delay 5>li<Delay 5>...<Delay 5><Close><End of Block>
 <TextBlock 281 w:50 h:4>
-Krelian
+Karellen
 "May all your worries
 cease.<Delay 15> Rest in peace<Delay 5>...<Delay 10>
 ancestors of mortal man!"<Close><End of Block>
 <TextBlock 282 w:40 h:3>
-Krelian
+Karellen
 "Now,<Delay 5> it is just<Delay 5>
 you<Delay 5> and<Delay 5> I<Delay 5>...<Delay 15>Sophia!"<Close><Close><End of Block>

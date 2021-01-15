@@ -15,13 +15,13 @@ against him<Delay 5>..."<Close><End of Block>
 Ramsus
 "AaaaAAAAH!!"<Close><End of Block>
 <TextBlock 4 w:36 h:4>
-Krelian
+Karellen
 "Of course.<Delay 32>
 That is the way I
 created him, 
 after all"<Close><End of Block>
 <TextBlock 5 w:54 h:4>
-Krelian
+Karellen
 "Surely not.<New>
 Those old men
 who so cling to their lives
@@ -34,14 +34,14 @@ realization of
 my goal.
 Nothing more.<Delay 5>..."<Close><End of Block>
 <TextBlock 6 w:46 h:4>
-Krelian
+Karellen
 "Yes, that exactly<New>
 I am leading the 
 people by 
 "my own means".
 That has not changed."<Close><End of Block>
 <TextBlock 7 w:20 h:3>
-Krelian
+Karellen
 "Kill him,
 'Ramses'!"<Close><End of Block>
 <TextBlock 8 w:38 h:2>
@@ -211,7 +211,7 @@ You can counteract
 my power......!?"<Close><End of Block>
 <TextBlock 39 w:40 h:4>
 Emperor Cain
-"Krelian...!?
+"Karellen...!?
 You have sided
 with them!?"<Close><End of Block>
 <TextBlock 40 w:52 h:4>
@@ -224,5 +224,5 @@ That is why
 I supported....."<Close><End of Block>
 <TextBlock 41 w:36 h:3>
 Emperor Cain
-"Krelian, are
+"Karellen, are
 you...!?"<Close><Close><End of Block>

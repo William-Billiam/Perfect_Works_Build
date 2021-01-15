@@ -53,18 +53,18 @@ Myyah
 Kahr a favor and save
 him... shouldn't we?"<Close><End of Block>
 <TextBlock 11 w:34 h:2>
-Krelian
+Karellen
 "There he was..."<Close><End of Block>
 <TextBlock 12 w:40 h:2>
-Krelian
+Karellen
 "What's so amusing?"<Close><End of Block>
 <TextBlock 13 w:46 h:2>
-Krelian
+Karellen
 "Hmph, <Delay 32>dont' be stupid.<New>
 By the way...
 what about Ramsus?"<Close><End of Block>
 <TextBlock 14 w:52 h:4>
-Krelian
+Karellen
 "I really want to say
 it's a waste of time...
 but, I guess it's alright.<New>
@@ -72,16 +72,16 @@ He probably made it easier
 to control it...<New>
 Nevertheless..."<Close><End of Block>
 <TextBlock 15 w:50 h:4>
-Krelian
+Karellen
 "How can you continue
 to fight without a chance
 of winning..."<Close><End of Block>
 <TextBlock 16 w:50 h:3>
-Krelian
+Karellen
 "What her true intentions
 are...I don't even know."<Close><End of Block>
 <TextBlock 17 w:30 h:4>
-Krelian
+Karellen
 "We're going.
 This place will
 soon be gone."<Close><Close><End of Block>

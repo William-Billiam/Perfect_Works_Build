@@ -142,7 +142,7 @@ intentions in mind."<Close><End of Block>
 <TextBlock 17 w:54 h:4>
 Citan
 "Those intentions<Delay 5>...<Delay 10>
-Krelian has called Deus
+Karellen has called Deus
 the mother.<New>
 If god is the mother, then
 those motives are coming
