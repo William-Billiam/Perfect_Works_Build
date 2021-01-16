@@ -8,8 +8,8 @@ eh, Fei!"<Close><End of Block>
 Bart
 "Anyway...looks like
 that's the exit.<New>
-So, it'll soon be adios
-to this old cavern!"<Close><End of Block>
+So, it'll be adios to
+this old cavern soon!"<Close><End of Block>
 <TextBlock 3 w:30 h:2>
 Bart
 "What the...!?"<Close><End of Block>

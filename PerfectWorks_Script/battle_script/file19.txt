@@ -31,10 +31,10 @@ Dan
 I escaped from
 Yui's place!<New>
 I'm here to avenge
-my sister's death!"<Close><End of Block>
+Alice's death!"<Close><End of Block>
 <TextBlock 8 w:44 h:4>
 Dan
-"Shut ya mouth! I will
+"Shut your mouth! I will
 never forgive you.<Delay 20>
 ...You murderer!!"<Close><End of Block>
 <TextBlock 9 w:30 h:4>
@@ -64,7 +64,7 @@ Every time you look
 at it,<New>
 I want you to suffer
 and feel the guilt for
-what you did !"<Close><End of Block>
+what you did!"<Close><End of Block>
 <TextBlock 11 w:40 h:4>
 Dan
 "Shut up!

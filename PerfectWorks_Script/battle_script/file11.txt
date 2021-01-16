@@ -4,9 +4,9 @@ Pirate
 a better plea for
 your life?<New>
 You come jumping out
-of an Aveh ship and
+of an Av ship and
 claim that you are
-not Aveh soldiers!<New>
+not Av soldiers!<New>
 Stop trying
 to fool me!"<Close><End of Block>
 <TextBlock 2 w:44 h:4>
@@ -40,7 +40,7 @@ even more!"<Close><End of Block>
 <TextBlock 5 w:38 h:3>
 Pirate
 "Oh-no!<Delay 30>
-This is not good!!"<Close><End of Block>
+That ain't good!!"<Close><End of Block>
 <TextBlock 6 w:46 h:4>
 Pirate
 "In the heat of battle,
@@ -59,7 +59,7 @@ So be darn ready!"<Close><End of Block>
 Fei
 "Wait one moment!
 We're not
-Aveh soldiers!"<Close><End of Block>
+Av soldiers!"<Close><End of Block>
 <TextBlock 9 w:24 h:3>
 Fei
 "I tell you,

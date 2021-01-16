@@ -3,8 +3,8 @@ Hold<Close><End of Block>
 <TextBlock 2 w:48 h:4>
 Ramsus
 "I've finally found you!
-Now, I must
-challenge you!!"<Close><End of Block>
+Now, you must be
+defeated!!"<Close><End of Block>
 <TextBlock 3 w:36 h:4>
 Ramsus
 "Guaaah!

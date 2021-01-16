@@ -2,7 +2,7 @@
 Achtzehn
 "For a low-class,
 low level life-form,
-you're pretty good."<Close><End of Block>
+you're quite strong."<Close><End of Block>
 <TextBlock 2 w:36 h:3>
 Achtzehn
 "Die, you pathetic

@@ -14,12 +14,12 @@ your duties!?"<Close><End of Block>
 <TextBlock 3 w:46 h:4>
 Fei
 "Are you serious?
-You do know what you're
+You know what you're
 doing, don't you!?<New>
 How can you say that
 knowing where that ship
 is headed and what the
-outcome may be...?"<Close><End of Block>
+outcome will be...?"<Close><End of Block>
 <TextBlock 4 w:30 h:3>
 Fei
 "C'mon, Elly!
@@ -48,7 +48,7 @@ Fei
 even their whole ship,
 are all missing...<New>
 They disappeared after
-the battle with Gebler.
+the battle with Geburah.
 So, I don't have a place
 to belong to anymore..."<Close><End of Block>
 <TextBlock 11 w:46 h:2>
@@ -57,8 +57,8 @@ Fei
 <TextBlock 12 w:46 h:4>
 Fei
 "Barging into someone
-else's country, and
-destroying the place...<New>
+else's country and
+destroying it...<New>
 Dragging innocent
 people into
 becoming victims...<New>
@@ -78,8 +78,8 @@ come with me!!"<Close><End of Block>
 <TextBlock 15 w:44 h:4>
 Elly
 "That's asking for too
-much! I'm an officer
-of the Gebler forces!"<Close><End of Block>
+much! I'm a lieutenant
+of the Geburah forces!"<Close><End of Block>
 <TextBlock 16 w:36 h:4>
 Elly
 "Yes!

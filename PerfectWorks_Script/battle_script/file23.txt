@@ -16,7 +16,7 @@ We're gonna take
 'you' down!"<Close><End of Block>
 <TextBlock 3 w:48 h:4>
 Rico
-"What the heck were
+"What the hell were
 you doing, Fei!?<New>
 Were you expectin' me
 to do all the dirty work
@@ -25,15 +25,15 @@ punks for you, alone?"<Close><End of Block>
 <TextBlock 4 w:46 h:4>
 Dominia
 "Hmph.<New>
-Just one more extra
-runt isn't going to
-allow you to down
+Just one extra
+gear isn't going to
+be enough to take down
 the 'Ship-Bomb Hecht'!"<Close><End of Block>
 <TextBlock 5 w:44 h:4>
 Dominia
 "Hah! What insolence!
-But what do you expect
-coming from Lambs...!"<Close><End of Block>
+But what should I
+expect from Lambs...!"<Close><End of Block>
 <TextBlock 6 w:44 h:4>
 Dominia
 "Eeeaaaahh! <Delay 20> ...<Delay 20>Guh<Delay 20>...<Delay 20>

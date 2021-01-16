@@ -7,8 +7,8 @@ STOP<Close><End of Block>
 Grahf
 "The Goliath wasn't
 built for you to use.<New>
-You must remain on this
-land a little longer.
+You must remain on the
+surface a little longer.
 I can't allow you to
 leave..."<Close><End of Block>
 <TextBlock 4 w:36 h:4>

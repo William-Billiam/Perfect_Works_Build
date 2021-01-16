@@ -7,12 +7,12 @@ planning on using it!
 He must be stopped!<New>
 Billy, can you hear me!?<Delay 30>
 Billy!?...<Delay 45> No good...
-There is no response!!"<Close><End of Block>
+There's no response!!"<Close><End of Block>
 <TextBlock 3 w:42 h:3>
 Citan
 "Too late...!
 Billy!<New>
-That is a weapon that
+That weapon
 uses its pilot as the
 warhead!"<Close><End of Block>
 <TextBlock 4 w:22 h:2>
@@ -44,18 +44,18 @@ Stein's teachings
 were all a deception.<New>
 That fabricated faith was
 just a worldly system for
-compensating those people
+compensating people
 with fragile souls.<New>
 But, faith and god aren't
-things which are given to
-you from others, right?<New>
-They are things you
+things given to
+you by others, right?<New>
+They're things you
 have to discover
 within yourself,
 and by yourself.<New>
-Things that cannot
+Things that can't
 be put into words,
-things that cannot
+things that can't
 be expressed...<New>
 Isn't that what god is
 all about? 'Question
@@ -95,7 +95,7 @@ by you have peaceful
 looks on their faces?<New>
 Your gun saved those
 people who were turned
-into reapers. It's not
+into reapers. That's not
 something anyone can do.<New>
 The faith that enabled
 you to accomplish that
@@ -114,6 +114,6 @@ But, I want you to know
 that you aren't gonna
 see Racquel when you
 die...!<New>
-That's because your
-destination is going
-to be hell!"<Close><Close><Close><End of Block>
+That's because
+you'll be going
+straight to hell!"<Close><Close><Close><End of Block>

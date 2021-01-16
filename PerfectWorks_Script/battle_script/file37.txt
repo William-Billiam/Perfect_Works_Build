@@ -2,7 +2,7 @@
 Ramsus
 "This is your final
 warning. Hand over
-Lt. Elhaym, now!"<Close><End of Block>
+Lt. Elehayym, now!"<Close><End of Block>
 <TextBlock 2 w:36 h:3>
 Ramsus
 "Are you sure you
@@ -12,12 +12,11 @@ for you to change
 your mind later!"<Close><End of Block>
 <TextBlock 3 w:46 h:4>
 Ramsus
-"Humm...<Delay 20> Well then,
+"Hmph...<Delay 20> Well then,
 I'll have to show you
-if I'm boasting or not!<New>
+I'm not messing around!<New>
 So be it.<Delay 20>
-No holding back!<Delay 20>
-And no holds barred!"<Close><End of Block>
+No holding back!<Delay 20>"<Close><End of Block>
 <TextBlock 4 w:38 h:4>
 Ramsus
 "Come on, come on!
@@ -32,7 +31,7 @@ Ramsus
 "Incredible!
 This undeniable
 difference in power!<New>
-Miang!
+Myyah!
 Are you watching this!?"<Close><End of Block>
 <TextBlock 6 w:40 h:4>
 Ramsus
@@ -46,29 +45,29 @@ Wah hah hah hah hah!"<Close><End of Block>
 <TextBlock 8 w:48 h:4>
 Ramsus
 "Hyah hah hah hah hah!
-Win! I can win! I am
-not the worthless one!!"<Close><End of Block>
+Win! I can win! I'm
+not worthless trash!!"<Close><End of Block>
 <TextBlock 9 w:38 h:3>
 Ramsus
 "It's over for you!
 Fei Fong Wong!"<Close><End of Block>
 <TextBlock 10 w:46 h:4>
 Ramsus
-"Nuah hah hah hah! I am
-not the worthless one!<Delay 40>
+"Nuah hah hah hah! I'm
+not worthless trash!<Delay 40>
 Hah! <Delay 30>Uha,<Delay 40> haah...<Delay 50> haah<New>
 ... Huh?"<Close><End of Block>
 <TextBlock 11 w:42 h:4>
 Ramsus
 "!!<Delay 30>
-I've even taken out
+Oh! I've taken out
 the lieutenant too<Delay 30>...<New>
 Damn,<Delay 30>
 I forgot my orders<Delay 30>...<New>
 Hmph<Delay 5>...<Delay 30>
 Oh well<Delay 5>...<Delay 30>
 To hell with
-Krelian's orders..."<Close><End of Block>
+Karellen's orders..."<Close><End of Block>
 <TextBlock 12 w:28 h:2>
 Fei
 "I refuse to!"<Close><End of Block>

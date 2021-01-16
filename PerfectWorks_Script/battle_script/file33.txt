@@ -23,7 +23,7 @@ Spectators
 Tournament's Final Bout<Opcode 2 60><Close><End of Block>
 <TextBlock 4 w:36 h:3>
 Fei
-(This is not good.<Delay 30>
+(This isn't good.<Delay 30>
 At this rate...)<Close><End of Block>
 <TextBlock 5 w:8 h:2>
 Fei
@@ -35,7 +35,7 @@ Come on, now...
 Put up a serious fight!"<Close><End of Block>
 <TextBlock 7 w:28 h:3>
 Fei
-"Why do you
+"What do you
 ask that for?"<Close><End of Block>
 <TextBlock 8 w:36 h:4>
 Fei
@@ -100,7 +100,7 @@ be a reason or a goal,
 for a person to fight?"<Close><End of Block>
 <TextBlock 20 w:32 h:4>
 Wiseman
-"So, you are you
+"So, are you
 fighting for no
 reason or goal?"<Close><End of Block>
 <TextBlock 21 w:42 h:4>

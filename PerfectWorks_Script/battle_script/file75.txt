@@ -1,7 +1,7 @@
 <TextBlock 1 w:48 h:4>
 Fei
 "Why do you suddenly
-want to fight for? Are
+want to fight? Are
 you crazy or something?"<Close><End of Block>
 <TextBlock 2 w:14 h:2>
 Fei
