@@ -12,12 +12,14 @@ kill <Delay 10>you.<Close><End of Block>
 <TextBlock 4 w:52 h:4>
 Mysterious Gear
 "How do you do?
-I am a Rattan, one of the
-followers of Karellen.<New>
+I am a Rattan, one of
+Karellen's followers.<New>
 Please excuse me, I'd like
 to show you my face but as
 a result of the
-human-machine fusion..."<Close><End of Block>
+human-machine fusion...<New>
+Not unlike that young
+girl's mother"<Close><End of Block>
 <TextBlock 5 w:48 h:4>
 Elly
 "A follower of Karellen!?<Delay 10>
@@ -52,24 +54,22 @@ Where's the usual cute
 one?"<Close><End of Block>
 <TextBlock 11 w:50 h:3>
 Maria
-"I knew it wasn't Ramsus.<New>
-Yes...<Delay 20>that Gear is an
-evolved version of
-Seibzehn and Achtzehn!"<Close><End of Block>
+"Is he refering to me...?<New>
+But...<Delay 20>mother is
+dead... is it possible that
+Seibzehn could be...!"<Close><End of Block>
 <TextBlock 12 w:52 h:4>
 Rattan
-"Our current task is
-totally about inspection
-of the evidence.<New>
-It'll ruin everything if
-someone as dead to the
-world as he appeared here.<New>
+"My only task is to
+observe her.
+It would ruin everything<New>
+if 'he' appeared here.
 A person who's calm and
-cool like myself would be
-perfect for the job.<New>
+cool as myself was
+perfect for this job.<New>
 Oh, <Delay 10>but don't worry.
-I'll just be inspecting
-here. Emeralda here, will
+I'll just be watching from
+here. Emeralda will
 take care of you."<Close><End of Block>
 <TextBlock 13 w:38 h:2>
 Emeralda
@@ -81,15 +81,15 @@ Ah, ah-a-a, I..."<Close><End of Block>
 <TextBlock 15 w:52 h:4>
 Rattan
 "...I see...<Delay 10>
-Reckless...<Delay 20>now that...<New>
+Interesting...<Delay 20>that means...<New>
 You should view it as a
-release of...<Delay 10>memory,
-<Delay 10>or maybe a recording.<New>
-It turned out just as
+release of...<Delay 10>her memory,
+<Delay 10>or maybe the recording has<New>
+ended. It turned out just as
 Karellen said...<New>
-It is a manifestation of
+She was able to overcome
 the imprinting.
-At any rate, it is proven.
+At any rate, his theory is proven.
 With that, excuse me.<New>
 I must report the results.
 Oh yes, <Delay 10>go ahead and take
