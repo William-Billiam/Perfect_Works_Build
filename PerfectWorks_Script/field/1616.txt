@@ -54,7 +54,7 @@ Where's the usual cute
 one?"<Close><End of Block>
 <TextBlock 11 w:50 h:3>
 Maria
-"Is he refering to me...?<New>
+"Is he referring to me...?<New>
 But...<Delay 20>mother is
 dead... is it possible that
 Seibzehn could be...!"<Close><End of Block>
