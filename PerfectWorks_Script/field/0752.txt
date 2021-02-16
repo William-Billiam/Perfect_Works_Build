@@ -15,8 +15,9 @@ Royal Capital of Av, and
 Fatima Castle are located.<New>
 Currently, there's no king
 living there though.<Delay 20>
-Anyway, that's my old home
-town."<Close><End of Block>
+Anyway, that's my old home<New>
+town, though I wouldn't call
+it homely."<Close><End of Block>
 <TextBlock 4 w:28 h:2>
 Fei
 "Home town..."<Close><End of Block>

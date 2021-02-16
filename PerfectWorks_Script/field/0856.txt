@@ -23,6 +23,9 @@ problems.<New>
 If you're going to go,
 the two of you should
 go by yourselves.
+I wouldn't wanna<New>
+end up in their
+prisons... <Delay 20>again...
 I'll wait here."<Close><End of Block>
 <TextBlock 7 w:34 h:2>
 Bart

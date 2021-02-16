@@ -29,8 +29,11 @@ This moll's a mole!"<Close><End of Block>
 <TextBlock 8 w:46 h:4>
 Bart
 "Damn it! What the hell
-did she do!? What am I
-gonna do!!"<Close><End of Block>
+did she do!? These things
+are dangerous. It blew<New>
+mine and Sig's eyes out
+before! What am I gonna
+do!!"<Close><End of Block>
 <TextBlock 9 w:38 h:4>
 Bart
 "Fei!!<Delay 45>
