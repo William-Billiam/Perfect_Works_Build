@@ -182,7 +182,7 @@ Bluecrystal
 "C<Delay 5>...<Delay 5>currency exchange<Delay 5>...<Delay 5>
 <Delay 5>l...<Delay 5>ost.<Delay 5> Co...<Delay 5>de,<Delay 5> error<Delay 5>..."<Close><End of Block>
 <TextBlock 40 w:62 h:7>
-The Kislev capital's, Nortune's
+The Kislev capital's, Noatun's
 'Central Administrive District'
 itself was a secret battleship
 constructed by Bart's ancestor,

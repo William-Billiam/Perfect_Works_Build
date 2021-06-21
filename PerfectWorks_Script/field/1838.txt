@@ -206,10 +206,13 @@ release Id at will...?"<Close><End of Block>
 Taura
 "Yes.<Delay 10>
 I called it 'System Id'.<New>
-But of course it should
-not be over-used.<Delay 10>
-Use it only as a last
-resort."<Close><End of Block>
+But of course, such
+extreme manipulation of
+your psyche will take a
+toll on you and tire you<New>
+our quickly.<Delay 10>
+You should only be used
+as a last resort."<Close><End of Block>
 <TextBlock 44 w:22 h:3>
 Fei
 "Elly,<Delay 10> doc,<Delay 10>

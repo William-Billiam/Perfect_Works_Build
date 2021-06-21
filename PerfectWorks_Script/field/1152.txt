@@ -825,42 +825,39 @@ Didn't Ramsus shoot
 him down?<Close><End of Block>
 <TextBlock 184 w:50 h:4>
 Karellen
-"She was also on the Gear
+"She was riding in the Gear
 that Ramsus shot down.<Delay 10>
-I won't have her die."<Close><End of Block>
+Her death would be unfortunate."<Close><End of Block>
 <TextBlock 185 w:52 h:3>
-But, there is already
-a 'mother'<Delay 5>...<New>
-Although she may be the
-'Antitype',<Delay 5> as long as the
-current mother exists<Delay 5>...<Close><End of Block>
+We already have a 'mother'
+do we not? Even if she is
+the 'Antitype', as long as<New>
+we have the present 'mother'<Delay 5>...<Close><End of Block>
 <TextBlock 186 w:44 h:3>
 Karellen
-"As far as I see it,<Delay 5>
-that is not<Delay 5> complete."<Close><End of Block>
+"I cannot call that<Delay 5> completion.<Close><End of Block>
 <TextBlock 187 w:52 h:3>
-Quite picky aren't you<Delay 5>...?<Delay 5>
-Didn't you say you threw
-away<Delay 5> all human emotions?<Close><End of Block>
+You are quite concerned with this<Delay 5>...<Delay 5>
+Didn't you cast off all
+human emotions?<Close><End of Block>
 <TextBlock 188 w:54 h:4>
 Karellen
-"I don't care what you
-think. Anyway<Delay 5>...<New>
-As far as he is concerned,
-I will put Ramsus onto him.<Delay 10>
-Any objections?<Delay 10>
-Where is he presently?"<Close><End of Block>
+"This is pointless... I
+will send Ramsus after him.
+Are there any objections?<New>
+We'll also need his current
+location."<Close><End of Block>
 <TextBlock 189 w:46 h:3>
-Etemenanki is destroyed,
-but part of the memory
-cube is still active.<New>
-We should still be able
-to locate individuals.<Close><End of Block>
+Though Etemenanki is destroyed,
+part of the memory cube's
+functions are still active.<New>
+It can still specify the
+locations of individuals.<Close><End of Block>
 <TextBlock 190 w:42 h:4>
 Wait a moment<Delay 5>...<Delay 5>
 He has left the crash
-site and is heading
-towards Ignas.<Close><End of Block>
+site, and is en-route
+to Ignas.<Close><End of Block>
 <TextBlock 191 w:52 h:4>
 Karellen
 "I see.<Delay 10>
@@ -873,16 +870,16 @@ broken<Delay 5>...)"<Close><End of Block>
 Did you say something?<Close><End of Block>
 <TextBlock 193 w:46 h:4>
 Karellen
-"It's nothing.<Delay 15>
+"Nothing consequential.<Delay 15>
 Just sit there and wait
 for the good news."<Close><End of Block>
 <TextBlock 194 w:44 h:4>
 What about retrieving
 the girl?<Delay 15>
-The key is already
-beginning to resonate.<New>
-The time of the
-resurrection is near.<Close><End of Block>
+The key is beginning
+to resonate.<New>
+The time of God's
+revival is drawing near.<Close><End of Block>
 <TextBlock 195 w:30 h:4>
 Karellen
 "We can get the
