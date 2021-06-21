@@ -202,7 +202,23 @@ of that ancient civilization.<Delay 45>
  
 It was a graveyard for a race
 of people<Delay 5> who destroyed each
-other over pride and arrogance.<Close><End of Block>
+other over pride and arrogance.<New>
+Citan: Look at this machinery... I
+cannot imagine that one would feel the
+need to wield such destructive power.<Delay 5><New>
+Elly: It almost makes you wonder,<Delay 5>
+could this be how they... died out?<New>
+Emeralda: ...No...<New>
+Elly: Did you say something just now
+Emeralda?<New>
+Emeralda: Emeralda saw these when she was
+dreaming. Those ladies with purple hair...
+Fei's Kim told me she wanted to use
+these... and she wanted to take me away.<New>
+Citan: Is she referring to the missiles
+on the wall? I must say, quite impressive
+for a child her age… Haha.<New>
+Elly: Em...<Close><End of Block>
 <TextBlock 18 w:54 h:10>
 Once arriving at the
 central control room,
@@ -213,7 +229,24 @@ the Mass-driver.<Delay 45>
 We succeeded in launching
 the capsule containing the
 nanomachines which would
-release the seal -Limiter-.<Close><End of Block>
+release the seal -Limiter-.<New>
+Citan: Mission success. I
+must say, that was far easier
+than I expected. Ancient
+technology is far more advanced
+than even some of ours, I would
+venture to guess.<New>
+Emeralda: Disease...<New>
+Elly: Emeralda?<New>
+Emeralda: Hope of humanity.
+Emeralda was... this was for
+Emeralda. Fei's Kim made this.
+And Elly helped too.<New>
+Elly: !! <Delay 10> You mean...
+me?<New>
+Emeralda: Elly... Elly's... Mom?<New>
+Elly: Yes, that's right. I'm
+here, Em.<Close><End of Block>
 <TextBlock 19 w:56 h:10>
 The nanomachines that were
 scattered into the upper
