@@ -39,7 +39,30 @@ Block under maintenance...<Close><End of Block>
 What a fool... <Delay 10>
 If he hadn't bucked the
 system, he coulda lived
-peacefully.<Close><End of Block>
+peacefully.<New>
+I guess that's not all
+true though... about 15
+years ago there was this
+swordsman living down here.<New>
+Even though he was 3rd
+class, I'd say he could
+probably take any of those
+Jugend folks in a fight.<New>
+I don't know why he didn't
+move up out of here...<Delay 10>
+Anyway, he's long gone now,
+his whole family too.<New>
+They died out from that 
+'F Block Plauge'. Some idiot
+leaked it out from the
+Soylent System and killed<New>
+them all. Rumor has it though,
+that one of his many grand-
+kids survived. I've heard
+the kid even became one of<New>
+the Elements!<Delay 15> It probably
+all just some big lie to give
+us a bit of hope though...<Close><End of Block>
 <TextBlock 12 w:48 h:4>
 How can you not be happy
 with all this?<Delay 10>

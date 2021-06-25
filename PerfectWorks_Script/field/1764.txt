@@ -257,12 +257,15 @@ Guardian Angels is
 here, Hyuga Ricdeau.<Close><End of Block>
 <TextBlock 51 w:50 h:4>
 Elder
-"This man is Cain...<Delay 30>
-Receiving the orders from
-the one known as Emperor,<New>
+"This man is Hyuga Ricdeau...<Delay 30>
+He has been receiving orders
+from our Emperor, Cain.<New>
 You've entered his realm,
 and have been under his 
-continued supervision..."<Close><End of Block>
+continued supervision...<New>
+In fact, nearly every
+weapon and gear you have
+faced was made by his hands."<Close><End of Block>
 <TextBlock 52 w:48 h:4>
 Elder
 "Oh yes.<New>

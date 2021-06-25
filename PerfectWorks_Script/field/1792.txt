@@ -21,9 +21,9 @@ We're outta here!!<Delay 35>
 ...Huh!?"<Close><End of Block>
 <TextBlock 5 w:44 h:4>
 Jessie
-"Carl, you're an enemy
-but why are you so 
-attached to one kid!?<New>
+"Low blow Carl...<Delay 10> why are
+you so attached to that
+one kid anyway?<New>
 You weren't like that 
 before!"<Close><End of Block>
 <TextBlock 6 w:52 h:3>
@@ -66,7 +66,7 @@ I decided to stick
 with Fei's group."<Close><End of Block>
 <TextBlock 14 w:24 h:2>
 Citan
-"K, Carl..."<Close><End of Block>
+"C, Carl..."<Close><End of Block>
 <TextBlock 15 w:16 h:2>
 Citan
 "But..."<Close><End of Block>
@@ -86,8 +86,12 @@ betraying me."<Close><End of Block>
 Ramsus
 "Did you say 'Fei'!?<New>
 You too...are on his
-side...I'll never forgive
-you! NEVER!"<Close><End of Block>
+side...I never should've
+trusted you! After what<New>
+you did to your block with
+that virus. I envied your
+intellect, but I must<New>
+have been mistaken."<Close><End of Block>
 <TextBlock 20 w:48 h:4>
 Ramsus
 "Shut up!
