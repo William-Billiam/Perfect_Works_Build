@@ -1104,4 +1104,11 @@ Planning to eliminate Sigmund
 when no longer useful.
 Requesting permission to use
 Battling test subject Ricardo
-to implement the elimination...<Opcode 2 30><Close><End of Block>
+to implement the elimination...<New>
+Elimination of Sigmund is no
+longer possible. In coordination
+with Krelian's 'M Plan',
+demihuman tests are to be held.
+Sigmund's hatred for demihumans
+will be used to expel him from
+Kislev.<Opcode 2 30><Close><End of Block>
