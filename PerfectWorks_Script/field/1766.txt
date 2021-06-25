@@ -61,13 +61,14 @@ Elly
  Ether Response...160
  Anima Alignment...85
  Comments
- Created by the 'Ethos' as
- an a experimental mixture.
- Used by the Kislev Battling
- Assoc. to measure battle
- potential. The data has
- been transferred. Schedule
- for Animus adjustment.<Close><End of Block>
+ Created by the Ethos'
+ experiment on Sigmund's wife
+ Anne. Through her physician,
+ gene altering drugs were 
+ administered. The Kislev 
+ Battling Assoc. has
+ measured battle potential.
+ Schedule for Animus adjustment.<Close><End of Block>
 <TextBlock 10 w:58 h:7>
 <Opcode 1 255><S> Emeralda
  Codename Emeralda
